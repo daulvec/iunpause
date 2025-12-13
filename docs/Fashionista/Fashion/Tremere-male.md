@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Brujah Female
-parent: Brujah
+title: Tremere Male
+parent: Tremere
 grand_parent: Fashion
 nav_order: 1
 ---
+
+# {{ page.title }}

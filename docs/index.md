@@ -17,6 +17,12 @@ Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so 
 
 ## Trash Panda Valley
 
-[![Fashionista Banner](/media/img/TP/Panda-splashscreen.png)](/)
+[![Fashionista Banner](/media/img/TP/Panda-splashscreen.png)](/TrashPanda/TrashPandaValley.html)
 
 A Stardew Valley list based around Goth Emo and Alt-Subculture.
+
+This list is still being developed and you can find the beta for it here
+
+[Beta Link](https://mega.nz/file/R4FzBK5R#HlFgsl954Q3HaiITeZ9QVydL8uzgtIFFTn4AjYvjnf0)
+
+There is currently no support and is provided as is.

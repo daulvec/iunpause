@@ -42,7 +42,7 @@ Open Wabbajack and and click Get Started
 {: .text-center }
 ![Getting Started](/media/img/Installation-Get-Started.png)
 
-The list is not featured so you will have to check Non-Featured and I would suggest setting the game to 
+The list is not featured so you will have to check Non-Featured and I would suggest setting the game to
 ``Vampire the Masquerade - Bloodlines``
 
 {: .text-center }
@@ -66,25 +66,20 @@ Click the  ``Download and Install`` button and it will start downloading, this m
 To the Left of the Splash Screen you will see to Locations
 
 - **Installation Location**
-  - This is the location where your list will be installed 
+  - This is the location where your list will be installed
 
 Set the installation location to a folder on the root of a drive, something like ``C:\Fashionista.`` Do not install it to one of the protected folders such as ``Program Files, Documents or Desktop``. The download location will have likely been filled in for you too — ensure it matches the directory you set for the installation location.
 
 {: .caution}
->Make sure not to use any special characters in your folder name except for dashes ``-`` 
+>Make sure not to use any special characters in your folder name except for dashes ``-``
 >Wabbajack can't handle characters like ``[ ]`` in folder names.
 
 - **Downloads Location**
-  - This is the Location where all the mod and archives will be downloaded to. 
+  - This is the Location where all the mod and archives will be downloaded to.
 
 {: .tip}
 >I recommend you keep your downloads outside of the Fashionista installation folder.
 >If you ever need to reinstall the list, you won't have to download all the mods again.
-
-
-
-
-
 
 [Previous: Pre-Installation](/Fashionista/PreInstallation.html){: .btn .btn-purple }
 [Next: Post-Installation](/Fashionista/PostInstallation.html){: .btn .btn-purple }
