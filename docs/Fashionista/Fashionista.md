@@ -2,12 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
+title: Fashionista
+nav_enabled: true
 ---
 
 # Fashionista
 
-![Fashionista Banner](/iunpause/media/img/Splash%20Design.png)
+![Fashionista Banner](/media/img/Splash%20Design.png)
 
 > [!IMPORTANT]
 > **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
