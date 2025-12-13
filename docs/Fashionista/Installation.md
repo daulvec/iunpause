@@ -4,37 +4,23 @@ title: Installation
 parent: Fashionista
 nav_order: 1
 has_children: true
+has_toc: false
 ---
 
-[Previous: Pre-Installation](/Fashionista/PreInstallation.html){: .btn .btn-purple }
-[Next: Post-Installation](/Fashionista/PostInstallation.html){: .btn .btn-purple }
+[Previous: Fashionista](/Fashionista/Fashionista.html){: .btn .btn-purple }
+[Next: Pre-Installation](/Fashionista/Requirements.html){: .btn .btn-purple }
 {: .text-right }
 
-# {{ page.title }}
+<!-- # {{ page.title }} -->
 
-## Table of contents
+Some small notes about the list, the support, and troubleshooting before we get started.
 
-{: .no_toc .text-delta }
+- As a modlist user, I expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved—if this is the case and it's well known, don't be surprised if you get ignored.
+- Support shouldn't be expected as instant—I have a full-time job on top of this, be nice.
+- Do not expect a 100% polished, well-balanced, and "perfect" experience. I am but one person, even if it's just a small list... and this is a famously buggy game.
+- We're modding an over 20-year-old game here, please temper your expectations some.
+- Suggestions are fine, but I have looked at every single mod on the Nexus for the list, so there is a decent chance I looked at it and said no, or there are issues with adding it due to compatability. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
 
-1. TOC
-{:toc}
-
-Installing the list has a couple of steps that you will have to follow for this to work.
-
-Set the installation location to a folder on the root of a drive, something like `C:\Fashionista`. Do not install it to one of the protected folders such as `Program Files`, `Documents` or `Desktop`. The download location will have likely been filled in for you too — ensure it matches the directory you set for the installation location.
-
->[!Caution]
-> ****Make sure not to use any special characters in your folder name except for dashes (-).****
-> Wabbajack can't handle characters like [ ] in folder names.
-
-> [!TIP]
-> **I recommend you keep your downloads outside of the Fashionista installation folder.**  
-> If you ever need to reinstall the list, you won't have to download all the mods again.
-
-## Post-Installation
-
-After Wabbajack has given you the "installation successful" screen, you're free to close it.
-
-[Previous: Pre-Installation](/Fashionista/PreInstallation.html){: .btn .btn-purple }
-[Next: Post-Installation](/Fashionista/PostInstallation.html){: .btn .btn-purple }
+[Previous: Fashionista](/Fashionista/Fashionista.html){: .btn .btn-purple }
+[Next: Pre-Installation](/Fashionista/Requirements.html){: .btn .btn-purple }
 {: .text-center }

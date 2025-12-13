@@ -3,14 +3,13 @@ layout: default
 title: Fashionista
 nav_order: 2
 has_children: true
+has_toc: false
 ---
 
 [Next: Installation](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-right }
 
 # {{ page.title }}
-
-![Fashionista Banner](/media/img/Splash%20Design.png)
 
 {: .important}
 > Important!
@@ -94,11 +93,5 @@ Just delete the Fashionista folder and it'll be gone.
 
 [Go Here for more information on Customizing the list](CustomizeList.md)
 
-# Special Thanks
-
-Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.
-
-Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse without their support.
-
-[Next: Installation](/docs/Fashionista/Installation.html){: .btn .btn-purple }
+[Next: Installation](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-center }

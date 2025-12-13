@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Fashion
-parent: About the List
+title: Main Profile - Fashionista
+parent: Profiles
 grand_parent: Fashionista
-nav_order: 2
+nav_order: 1
 ---
 
 # {{ page.title }}

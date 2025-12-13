@@ -1,30 +1,38 @@
 ---
 layout: default
-title: Post-Installation
+title: Step 4 - Post-Installation
 parent: Installation
 grand_parent: Fashionista
 nav_order: 4
 ---
 
-[Previous: Pre-Installation](/Fashionista/Installation.html){: .btn .btn-purple }
+[Previous: Installation](/Fashionista/Installation.html){: .btn .btn-purple }
+[Next: Launch the Game](/Fashionista/Launch.html){: .btn .btn-purple }
 {: .text-right }
 
 # {{ page.title }}
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 After Wabbajack has given you the "installation successful" screen, you're free to close it.
 
-### Launch the game
+## Mod Organzier 2
+
+The list is built using Mod Organizer 2 and we use this to run the list and pick your options and profiles.
 
 Start by opening the folder you installed the list into and then run MO2 by double-clicking `ModOrganizer.exe`.  
-Select **Fashionista** in the drop-down if it's not already selected and launch the game.
 
-![Fashionista launch](img/Launch.png)
+{: .text-center }
+![Mod Organizer 2 Icon](/media/img/MO2-Icon.png)
+
+This should open Mod Organizer 2
+
+{: .text-center }
+![Mod Organizer 2 Main Window](/media/img/MO2-display.png)
+
+## Configuration
+
+### ENB and Reshades
+
+The ENB I have selected is a good general ENB, but I have added a couple extra if you wish to try them instead or you can disable the enb to turn it off.
 
 > [!WARNING]
 > **DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT.**
@@ -33,11 +41,6 @@ Select **Fashionista** in the drop-down if it's not already selected and launch 
 
 Plus it only works for Skyrim so double don't use it.  
 
-### Creating a desktop shortcut
-
-Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop".  
-
-![Desktop Shortcut Creation](img/Shortcut.png)  
-
-[Previous: Pre-Installation](/Fashionista/Installation.html){: .btn .btn-purple }
+[Previous: Installation](/Fashionista/Installation.html){: .btn .btn-purple }
+[Next: Launch the Game](/Fashionista/Launch.html){: .btn .btn-purple }
 {: .text-center }
