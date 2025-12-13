@@ -6,8 +6,8 @@ grand_parent: Fashionista
 nav_order: 2
 ---
 
-[Previous: Requirements](Requirements.md){: .btn .btn-purple }
-[Next: Requirements](/Fashionista/Installation.md){: .btn .btn-purple }
+[Previous: Requirements](Requirements.html){: .btn .btn-purple }
+[Next: Requirements](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-right }
 
 # {{ page.title }}
@@ -78,6 +78,6 @@ You want the manual version without the patch
 
 ---
 
-[Previous: Requirements](/Fashionista/Requirements.md){: .btn .btn-purple }
-[Next: Requirements](/Fashionista/Installation.md){: .btn .btn-purple }
+[Previous: Requirements](/Fashionista/Requirements.html){: .btn .btn-purple }
+[Next: Requirements](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-center }

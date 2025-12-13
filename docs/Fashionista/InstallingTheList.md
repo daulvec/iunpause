@@ -6,8 +6,8 @@ grand_parent: Fashionista
 nav_order: 3
 ---
 
-[Previous: Pre-Installation](/Fashionista/PreInstallation.md){: .btn .btn-purple }
-[Next: Post-Installation](/Fashionista/PostInstallation.md){: .btn .btn-purple }
+[Previous: Pre-Installation](/Fashionista/PreInstallation.html){: .btn .btn-purple }
+[Next: Post-Installation](/Fashionista/PostInstallation.html){: .btn .btn-purple }
 {: .text-right }
 
 
@@ -37,6 +37,6 @@ Set the installation location to a folder on the root of a drive, something like
 
 After Wabbajack has given you the "installation successful" screen, you're free to close it.
 
-[Previous: Pre-Installation](/Fashionista/PreInstallation.md){: .btn .btn-purple }
-[Next: Post-Installation](/Fashionista/PostInstallation.md){: .btn .btn-purple }
+[Previous: Pre-Installation](/Fashionista/PreInstallation.html){: .btn .btn-purple }
+[Next: Post-Installation](/Fashionista/PostInstallation.html){: .btn .btn-purple }
 {: .text-center }

@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-[Next: Installation](/docs/Fashionista/Installation.md){: .btn .btn-purple }
+[Next: Installation](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-right }
 
 # {{ page.title }}
@@ -100,5 +100,5 @@ Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for
 
 Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse without their support.
 
-[Next: Installation](/docs/Fashionista/Installation.md){: .btn .btn-purple }
+[Next: Installation](/docs/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-center }

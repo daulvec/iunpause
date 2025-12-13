@@ -6,7 +6,7 @@ grand_parent: Fashionista
 nav_order: 4
 ---
 
-[Previous: Pre-Installation](/Fashionista/Installation.md){: .btn .btn-purple }
+[Previous: Pre-Installation](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-right }
 
 # {{ page.title }}
@@ -39,5 +39,5 @@ Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut"
 
 ![Desktop Shortcut Creation](img/Shortcut.png)  
 
-[Previous: Pre-Installation](/Fashionista/Installation.md){: .btn .btn-purple }
+[Previous: Pre-Installation](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-center }

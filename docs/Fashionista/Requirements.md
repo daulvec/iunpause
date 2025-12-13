@@ -6,7 +6,7 @@ grand_parent: Fashionista
 nav_order: 1
 ---
 
-[Next: Pre-Installation](PreInstallation.md){: .btn .btn-purple }
+[Next: Pre-Installation](PreInstallation.html){: .btn .btn-purple }
 {: .text-right }
 
 # {{ page.title }}
@@ -37,5 +37,5 @@ Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs &
 
 ---
 
-[Next: Pre-Installation](PreInstallation.md){: .btn .btn-purple }
+[Next: Pre-Installation](PreInstallation.html){: .btn .btn-purple }
 {: .text-center }
