@@ -27,8 +27,8 @@ github_username:  daulvec
 
 # Build settings
 # theme: just-the-docs  # Use this for local development
-# remote_theme: just-the-docs/just-the-docs  # Use this for GitHub Pages
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs  # Use this for GitHub Pages
+# theme: just-the-docs
 
 plugins:
   - jekyll-feed
