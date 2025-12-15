@@ -5,10 +5,12 @@ parent: Brujah
 grand_parent: Fashion
 nav_order: 1
 ---
-
+ 
 # {{ page.title }}
 
-## Male
+This page showcases all available Brujah male outfits for Vampire: The Masquerade – Bloodlines, with download links and previews.
+
+---
 
 ### Vampire Brujah By Marius217 - Male
 
@@ -18,7 +20,7 @@ nav_order: 1
 ![Preview of the Outfit](/media/img/Fashion/Brujah/Vampire%20Brujah%20By%20Marius217%20-%20Male.png)
 
 {: .text-center }
-Armor 0-3
+**Armor:** 0-3
 
 ---
 
@@ -30,7 +32,7 @@ Armor 0-3
 ![Preview of the Outfit](/media/img/Fashion/Brujah/JOKER%20BRUJAH%20-%20Male.png)
 
 {: .text-center }
-Armor 0-3
+**Armor:** 0-3
 
 ---
 
@@ -42,7 +44,7 @@ Armor 0-3
 ![Preview of the Outfit](/media/img/Fashion/Brujah/Brujah%20opium%20outfits%20overhaul%20-%20Male.webp)
 
 {: .text-center }
-Armor 0-3
+**Armor:** 0-3
 
 ---
 
@@ -54,7 +56,7 @@ Armor 0-3
 ![Preview of the Outfit](/media/img/Fashion/Brujah/Brujah%20Vampire%20rexture%20-%20Male.webp)
 
 {: .text-center }
-Armor 0-3
+**Armor:** 0-3
 
 ---
 
@@ -66,7 +68,7 @@ Armor 0-3
 ![Preview of the Outfit](/media/img/Fashion/Brujah/Brujah%20Connor%20Mclaud%20The%20Highlander%20-%20Male.webp)
 
 {: .text-center }
-Armor 0-3 Hud
+**Armor:** 0-3 Hud
 
 ---
 
@@ -78,7 +80,7 @@ Armor 0-3 Hud
 ![Preview of the Outfit](/media/img/Fashion/Brujah/vampire_BRUJAH%20-%20Male.jpg)
 
 {: .text-center }
-Armor 0-3
+**Armor:** 0-3
 
 ---
 
@@ -90,4 +92,7 @@ Armor 0-3
 ![Preview of the Outfit](/media/img/Fashion/Brujah/vampire_Pack_Male_PC%20-%20Brujah%20-%20Male.jpg)
 
 {: .text-center }
-Armor 0-3
+**Armor:** 0-3
+
+{: .text-center }
+[Back to Brujah Overview](Brujah.html){:.btn .btn-purple }  [See Female Outfits](Brujah-female.html){:.btn .btn-purple }

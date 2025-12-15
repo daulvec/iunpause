@@ -8,10 +8,11 @@ has_toc: false
 ---
 
 [Previous: Fashionista](/Fashionista/Fashionista.html){: .btn .btn-purple }
-[Next: Pre-Installation](/Fashionista/Requirements.html){: .btn .btn-purple }
-{: .text-right }
+[Next: Pre-Installation](/Fashionista/Installation/Requirements.html){: .btn .btn-purple }
+{: .text-center }
 
-<!-- # {{ page.title }} -->
+{: .text-center }
+# {{ page.title }}
 
 Some small notes about the list, the support, and troubleshooting before we get started.
 
@@ -22,5 +23,5 @@ Some small notes about the list, the support, and troubleshooting before we get 
 - Suggestions are fine, but I have looked at every single mod on the Nexus for the list, so there is a decent chance I looked at it and said no, or there are issues with adding it due to compatability. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
 
 [Previous: Fashionista](/Fashionista/Fashionista.html){: .btn .btn-purple }
-[Next: Pre-Installation](/Fashionista/Requirements.html){: .btn .btn-purple }
+[Next: Pre-Installation](/Fashionista/Installation/Requirements.html){: .btn .btn-purple }
 {: .text-center }

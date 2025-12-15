@@ -8,16 +8,15 @@ has_children: true
 has_toc: false
 ---
 
+{: .text-center }
+# {{ page.title }}
 
+The Brujah have a reputation as fierce warriors; their affinity for war is carried in their blood. Because their weakness is their rage, they are much more vulnerable to frenzy. Quick to anger and always passionate, they have been steadily regaining their position as a clan of lofty philosophers and activists, and are known for mysterious knowledge and power. 
 
 ---
 
-## Female
+{: .text-center}
+[Male outfits](/Fashionista/Fashion/Brujah-male.html){:.btn .btn-purple }
 
-### Allison Mayer Brujah PC Skin - Female
-
-### Female Brujah by Skeletoff - Female
-
-### Female Brujah Replacement Pack - Female
-
-### Selene from Underworld for Brujah - Female
+{: .text-center}
+[Female outfits](/Fashionista/Fashion/Brujah-female.html){: .btn .btn-purple  }
