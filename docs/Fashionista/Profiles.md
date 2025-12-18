@@ -30,6 +30,8 @@ It includes all my prefered options and defaults.
 
 ### Description
 
+This is just the base game with the Unoffical Patch, this is if all you want is to play the list as it was released with bug fixes.
+
 ---
 
 ### Antitribu

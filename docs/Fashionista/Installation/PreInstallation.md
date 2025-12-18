@@ -13,22 +13,16 @@ nav_order: 2
 # {{ page.title }}
 {: .text-center }
 
-
-<!-- {: .no_toc .text-delta }
-
-1. TOC
-{:toc} -->
-
 **This stuff needs to be done BEFORE starting the Wabbajack installation.**
 
-### Install Microsoft Visual C++ Redistributable Packages
+## Install Microsoft Visual C++ Redistributable Packages
 
 {: .caution}
 > MO2 needs this — don't skip it.
 >
 > [Download Visual C++ Redistributable Package.](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-### Setup your Antivirus
+## Setup your Antivirus
 
 Before you say "I don't have an antivirus" — you do, it's built into Windows. You need to ****exclude your Wabbajack folder, base game folder and your Fashionista installation folder__** from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering and in this lists case cause it to not function properly at all.
 
@@ -39,7 +33,7 @@ If you use another antivirus program, refer to their steps for adding an exclusi
 
 ***If you use Webroot, BitDefender, Norton or Kaspersky, I recommend you stop using these as these programs ***actively*** interfere with modlists even when they are excluded. Plus, you're wasting your money.***
 
-### Install the game
+## Install the game
 
 Install the game either through Steam or GoG, both is fine.
 
@@ -54,17 +48,17 @@ Install the game either through Steam or GoG, both is fine.
 
 ![Steam Logo](img\Steam_Logo.png){: width="200"}
 
-### Steam Specific Instructions
+## Steam Specific Instructions
 
-#### Disable Steam Overlay
+### Disable Steam Overlay
 
 The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right-clicking on Vampire: The Masquerade – Bloodlines in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
 ![GOG Logo](img\GOG-Logo.png){: width="200"}
 
-### GOG Specific Instructions
+## GOG Specific Instructions
 
-#### What Version to install
+### What Version to install
 
 {: .caution}
 > Don't use the GOG Galaxy version of the game, it adds the unofficial patch and could possibly cause issues.

@@ -212,18 +212,6 @@ nav_order: 2
 {: .text-center }
 **Armor:** 0-3 Hud
 
----
-
-### Yuki Custom PC (Recovered) - Female
-
-[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/186)
-
-{: .text-center }
-![Preview of the Outfit](/media/img/Fashion/Malkavian/)
-
-{: .text-center }
-**Armor:** 0-3
-
 --- 
 
 ### Yuki Custom PC (Recovered) - Female
@@ -247,6 +235,7 @@ nav_order: 2
 
 {: .text-center }
 **Armor:** 0-3S
+
 ---
 
 ### CustomPC - Female
@@ -263,33 +252,3 @@ nav_order: 2
 
 {: .text-center }
 [Back to Malkavian Overview](Malkavian.html){:.btn .btn-purple }  [See Malkavian Outfits](Malkavian-male.html){:.btn .btn-purple }
-
-
-
-
-
----
-
-### 
-
-[ModDB]()
-
-{: .text-center }
-![Preview of the Outfit](/media/img/Fashion/Malkavian/)
-
-{: .text-center }
-**Armor:** 0-3
-
----
-
-### 
-
-[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/186)
-
-{: .text-center }
-![Preview of the Outfit](/media/img/Fashion/Malkavian/)
-
-{: .text-center }
-**Armor:** 0-3
-
----

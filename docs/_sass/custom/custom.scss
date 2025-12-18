@@ -4,3 +4,25 @@ $pink-100: #f8bbd0;
 $pink-200: #f48fb1;
 $pink-300: #ec407a;
 $pink-400: #e91e63;
+
+// Custom heading color variables
+$heading-purple: #8205ff1e;
+$heading-red: #7300001e;
+$heading-pink: #ff55ff1e;
+
+h1 {
+    background-color: $heading-purple !important; // Purple for main headers
+}
+
+h2 {
+    background-color: $heading-red !important; // Red for sub headings
+}
+
+h3 {
+    background-color: $heading-pink !important; // Pink for sub sub headings
+}
+
+h1, h2, h3 {
+    padding: 0.5em !important;
+    color: white !important;
+}
