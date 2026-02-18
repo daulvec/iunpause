@@ -13,30 +13,13 @@ nav_order: 3
 # {{ page.title }}
 {: .text-center }
 
-~~The list can use either Steam or GOG version of Vampire the Masquarade: Bloodlines~~
-
 {: .important}
->At this time the list **ONLY** Supports Steam, I want to bring back GOG support as I like them and its the only option for some people to purchase or install the game.
+>At this time the list **ONLY** Supports Steam, This is unlikley to change in the near future.
 
 {: .caution}
 >You don't need to run the game prior to installing the modlist.
->
->In fact, the game will not start on modern systems. The unofficial patch will fix this this is normal and expected.
->
->**DO NOT INSTALL THE UNOFFICIAL PATCH TO RUN THE GAME**, Wabbajack will take care of that for you during modlist installation.
-
-{: .warning}
->You HAVE to have to have a clean install of the game or the list will not work.
-
-## Steam Specific Instructions
-
-### Disable Steam Overlay
-
-The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right-clicking on Vampire: The Masquerade – Bloodlines in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
 ## Installation
-
-Its finally time to install the list!
 
 Open Wabbajack and and click Get Started
 

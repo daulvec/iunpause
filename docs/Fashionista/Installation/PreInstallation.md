@@ -46,7 +46,7 @@ Install the game either through Steam or GoG, both is fine.
 {: .warning}
 > You **HAVE** to have to have a clean install of the game or the list will not work.
 
-![Steam Logo](img\Steam_Logo.png){: width="200"}
+![Steam Logo](/media/img/Steam_Logo.png){: width="200"}
 
 ## Steam Specific Instructions
 
@@ -54,7 +54,7 @@ Install the game either through Steam or GoG, both is fine.
 
 The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right-clicking on Vampire: The Masquerade – Bloodlines in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
-![GOG Logo](img\GOG-Logo.png){: width="200"}
+<!-- ![GOG Logo](img\GOG-Logo.png){: width="200"}
 
 ## GOG Specific Instructions
 
@@ -70,7 +70,7 @@ You want the manual version without the patch
 3. Then download the following 2 files
    - ```Vampire®: The Masquerade - Bloodlines™ (Part 1 of 2)```
    - ```Vampire®: The Masquerade - Bloodlines™ (Part 2 of 2)```
-4. Read the Install Section and uses these files for the install.
+4. Read the Install Section and uses these files for the install. -->
 
 ---
 

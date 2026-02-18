@@ -48,6 +48,18 @@ This page showcases all available Gangrel Male outfits for Vampire: The Masquera
 
 ---
 
+### Gangrel_Male_Reskin - Male
+
+[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Gangrel/Gangrel_Male_Reskin - Male.jpg)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
 ### Gangrel model by Marius217 - Male
 
 [ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-model-by-marius217)

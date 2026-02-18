@@ -96,5 +96,77 @@ nav_order: 1
 
 ---
 
+### Malkavian_Male_by_Kenny_Willian - Male
+
+[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-by-kenny-willian)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Malkavian/Malkavian_Male_by_Kenny_Willian - Male.jpg)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
+### MR DAMP by Marius217 - Malkavian - Male
+
+[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/133)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Malkavian/MR DAMP by Marius217 - Malkavian - Male.webp)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
+### NewmalePCMod - Male
+
+[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-male-pc-by-skeletoff)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Malkavian/NewmalePCMod - Male.jpg)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
+### No-Eccentric_Malk - Male
+
+[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/no-eccentric-malkavian)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Malkavian/No-Eccentric_Malk - Male.webp)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
+### vampire_Malkavian_Fight_club - Male
+
+[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-malkavian-fight-club-by-marius217)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Malkavian/vampire_Malkavian_Fight_club - Male.jpg)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
+### vampire_Pack_Male_PC - Malkavian - Male
+
+[ModDB](https://www.moddb.com/games/https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampires-male-pack-pc-by-marius217)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Malkavian/vampire_Pack_Male_PC - Malkavian - Male.jpg)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
 {: .text-center }
 [Back to Malkavian Overview](Malkavian.html){:.btn .btn-purple }  [See Malkavian Outfits](Malkavian-male.html){:.btn .btn-purple }

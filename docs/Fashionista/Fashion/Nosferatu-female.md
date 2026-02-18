@@ -58,7 +58,7 @@ nav_order: 2
 
 ---
 
-### nosferatu_female
+### Nosferatu_Female - Female
 
 [ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/nosf-female-transform-skin)
 
@@ -76,6 +76,18 @@ nav_order: 2
 
 {: .text-center }
 ![Preview of the Outfit](/media/img/Fashion/Nosferatu/imalia_nossie.jpg)
+
+{: .text-center }
+**Armor:** 0-3 Hud
+
+---
+
+### Nosferatu Replacement - Zivot (OC) - Female
+
+[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/392)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Nosferatu/Nosferatu Replacement - Zivot (OC) - Female.webp)
 
 {: .text-center }
 **Armor:** 0-3 Hud

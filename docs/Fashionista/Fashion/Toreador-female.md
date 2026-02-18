@@ -82,6 +82,18 @@ nav_order: 2
 
 ---
 
+### NewPCMod
+
+[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Toreador/NewPCMod.jpg)
+
+{: .text-center }
+**Armor:** 0-3
+
+---
+
 ### Sexy Long Hair Female Toreador (Player) V.3 - Female
 
 [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/63)
@@ -124,6 +136,20 @@ nav_order: 2
 
 {: .text-center }
 ![Preview of the Outfit](/media/img/Fashion/Toreador/188-1632278055-16863061.webp)
+
+{: .text-center }
+**Armor:** 0-3 Hud
+
+---
+
+
+
+### Toreador Replacement - Veronica (OC)
+
+[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/393)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Toreador/Toreador Replacement - Veronica (OC).webp)
 
 {: .text-center }
 **Armor:** 0-3 Hud

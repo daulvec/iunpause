@@ -10,6 +10,97 @@ has_toc: false
 {: .text-center }
 # {{ page.title }}
 
+# Fashionista 2.1.2
+
+**Info:**
+- GoG installation compatibility fix
+
+### Fixes
+
+Just an update to try to fix GoG Installation for some people.
+
+---
+
+<details markdown="1">
+<summary>Older Versions</summary>
+
+# Fashionista 2.1.1
+
+**Info:**
+- HD Overhaul update and skin inclusion fix
+- Launcher functionality verification
+
+### Updated Mods
+
+- Updated [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - VTMB HD Overhaul Complete-234-2-2-1770216030.zip
+  - Optional Art and Immersion-234-2-2-1770217647.zip
+
+### Removed Mods
+
+- Removed [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - VTMB HD Overhaul Complete-234-2-2-1766864569.zip
+
+### Fixes
+
+Should have fixed an issue with a skin not being included.
+
+Also since no one has said anything I am going to assume the new launcher works and also works on Linux.
+
+---
+
+# Fashionista 2.1.0
+
+**Info:**
+- Added experimental universal launcher for all profiles
+- New character replacement mods for multiple clans
+- Unofficial Patch update
+
+### Added Mods
+
+- Added [Toreador Replacement - Veronica (OC)](https://www.nexusmods.com/vampirebloodlines/mods/393)
+  - Toreador Replacer - Veronica-393-1-0-1768515960.zip
+- Added [Vanilla-Friendly Female Gangrel Reskin](https://www.nexusmods.com/vampirebloodlines/mods/394)
+  - Female Gangrel Reskin-394-19-01-2026-1768784023.zip
+- Added [Ventrue Replacement - Parker (OC)](https://www.nexusmods.com/vampirebloodlines/mods/385)
+  - Ventrue Replacer - Parker 1.1-385-1-1-1768360243.zip
+- Added [Brujah Replacement - Kit (OC)](https://www.nexusmods.com/vampirebloodlines/mods/395)
+  - Brujah Replacer - Kit-395-1-0-1770074317.zip
+
+### Updated Mods
+
+- Updated [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.54-80-11-5-1768949412.exe
+
+### Removed Mods
+
+- Removed [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.51-80-11-5-1767646822.exe
+
+### Changes
+
+The big update here is that I added an experimental way of launching the game. There should be only one option now in the EXE area called Fashionista - you can use this for all the profiles now.
+
+If you update, try the Fashionista Profile and the HD Overhaul Profile and let me know if you have different Main Menus so I can verify that this is working.
+
+Also if you are on Linux I currently have no way of testing this there so no promises that this will work. I have left the original exe's with the proper arguments installed, I just hide them so if this doesn't work you can uncheck "Hide in user interface."
+
+---
+
+# Fashionista 2.0.5
+
+**Info:**
+- Updated Unofficial Patch for bug fixes with bloodheal and Nosferatu functionality
+
+### Updated Mods
+
+- Updated [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.51-80-11-5-1767646822.exe
+
+Just an update to the Unofficial Patch, there were some issues with bloodheal and Nosferatu not working properly so if you are playing them it's recommended to update - it should be save safe.
+
+---
+
 ## Beta 1 for 2.0
 
 https://mega.nz/file/N4lCyApa#EhzakeSPgsQ1c4wlRpzNtpqbGrlCoJ7DG5Ly46hfVsA
@@ -431,5 +522,76 @@ RTX mod will hopefully come soonish as I think??? I might have figured out the i
 - Updated [ProudStannerman Tremere and Toreador](https://www.nexusmods.com/vampirebloodlines/mods/376)
   - ProudStannerman Tremere-376-1-1762480761.rar
 
+# Fashionista 2.0.0
+
+Its out and fully rebuilt from the ground up.
+
+Changelog would be the whole list.
+
+- There are 13 profiles now.
+- There is 140ish Outfits
+- The size of the Wabbajack file actually went down.
+- Its got something like 80 Mods from ModDB - you will have to manually download them from there.
+  - There is no list for them yet I have not had time to create it yet.
+- There are probably bugs, I have spent 12 hours trying to get this compiled and its 1 in the morning,
+
+Readme and Install Instructions are now here
+https://iunpause.com/Fashionista/Fashionista.html
+The site is still being built and stuff is missing or broken but the import stuff is there.
+
+If you like the list donate to one of the other List creators here.
+
+# Fashionista 2.0.2
+
+# Changelog
+
+- Added [The Final Nights HD 1.6](https://www.moddb.com/mods/vtm-the-final-nights/downloads/vtm-the-final-nights-16-hd-full)
+- Added [NewPCMod.1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff)
+- Added [Companion Mod Core v3 for The Final Nights vfix-3](https://www.nexusmods.com/vampirebloodlines/mods/162)
+- Updated [Jenya's female toreador pc overhaul to v1.0](https://www.nexusmods.com/vampirebloodlines/mods/149)
+- Updated [Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80) to 115.48
+
+- I Fixed some files being the the wrong place (Hopefully)
+- Fix an issue with an mod being enabled that should not be.
+- Changed the names of some Separators to hopefully prevent issues...
+
+# Fashionista 2.0.3
+
+### Added Mods
+
+- Added [Nosferatu Replacement - Zivot (OC)](https://www.nexusmods.com/vampirebloodlines/mods/392)
+  - Nosferatu Replacer - Zivot 1.0 (With intro form)-392-1-0-1766893061.zip
+
+### Updated Mods
+
+- Updated [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - VTMB HD Overhaul Complete-234-2-2-1766864569.zip
+- Updated [Camarilla Edition reborn](https://www.nexusmods.com/vampirebloodlines/mods/263)
+  - Camarilla Edition Reborn HOTFIX 2-263-2025-I-1766741268.zip
+
+- A couple small updates to default enabled options
+
+GOG is now supported again.
 
 
+# Fashionista 2.0.4
+
+## Added Mods
+
+- Added [Bloodlines Extreme repack 2.0.4.7z](about:blank)
+  - Bloodlines Extreme repack 2.0.4.7z
+- Added [Bloodlines_Prelude_II - Repack.7z](about:blank)
+  - Bloodlines_Prelude_II - Repack.7z
+
+## Updated Mods
+
+- Updated [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.49-80-11-5-49-1767181351.exe
+
+## Removed Mods
+
+- Removed [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.42-80-11-5-42-1764019843.exe
+  - VTMBup115.46-80-11-5-46-1765061601.exe
+
+</details>

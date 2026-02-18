@@ -23,6 +23,18 @@ This page showcases all available Brujah Female outfits for Vampire: The Masquer
 
 ---
 
+### Brujah Replacement - Kit (OC)
+
+[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/395)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Brujah/Brujah Replacement - Kit (OC).webp)
+
+{: .text-center }
+**Armor:** 0-3 Hud
+
+---
+
 ### Female Brujah by Skeletoff - Female
 
 [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/215)

@@ -7,13 +7,18 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.4.1"  # Comment out for GitHub Pages
-gem "jekyll-remote-theme"
-# gem "just-the-docs"  # Comment out for GitHub Pages - use remote_theme instead
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# === LOCAL DEVELOPMENT ===
+# Uncomment these for local development:
+# gem "jekyll", "~> 4.4.1"
+# gem "just-the-docs"
+
+# === GITHUB ACTIONS/PAGES ===
+# Uncomment these for GitHub Pages deployment:
 gem "github-pages", group: :jekyll_plugins
+
+# === Leave this enabled for both local development and GitHub Pages ===
+gem "jekyll-remote-theme"
 
 
 # If you have any plugins, put them here!

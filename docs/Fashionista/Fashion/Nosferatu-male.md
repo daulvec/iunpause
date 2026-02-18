@@ -22,9 +22,9 @@ nav_order: 1
 
 ---
 
-### Aristocratic_nosferatu - Male 
+### Aristocratic Nosferatu by Marius217 - Male
 
-[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/aristocratic-nosferatu-by-marius217)
+[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/146)
 
 {: .text-center }
 ![Preview of the Outfit](/media/img/Fashion/Nosferatu/NOSFERATUARISTOCRIATO.1.jpg)

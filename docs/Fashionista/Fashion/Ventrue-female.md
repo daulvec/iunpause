@@ -10,9 +10,9 @@ nav_order: 2
 
 ---
 
-### 
+### Ventrue_Female_Skin_by_Soya - Female
 
-[ModDB]()
+[ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya)
 
 {: .text-center }
 ![Preview of the Outfit](/media/img/Fashion/Ventrue/ventrue_f.jpg)
@@ -100,6 +100,30 @@ nav_order: 2
 
 {: .text-center }
 ![Preview of the Outfit](/media/img/Fashion/Ventrue/mujer_ventrue.jpg)
+
+{: .text-center }
+**Armor:** 0-3 Hud
+
+---
+
+### Ventrue Replacement - Parker (OC)
+
+[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/385)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Ventrue/Ventrue Replacement - Parker (OC).webp)
+
+{: .text-center }
+**Armor:** 0-3 Hud
+
+---
+
+### VENTRUE FEMALE RESKIN - Female
+
+[Nexus](https://www.nexusmods.com/vampirebloodlines/mods/385)
+
+{: .text-center }
+![Preview of the Outfit](/media/img/Fashion/Ventrue/VENTRUE FEMALE RESKIN - Female.webp)
 
 {: .text-center }
 **Armor:** 0-3 Hud
