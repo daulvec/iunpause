@@ -28,11 +28,11 @@ github_username:  daulvec
 # Build settings
 # === LOCAL DEVELOPMENT ===
 # Uncomment this for local development:
-theme: just-the-docs
+# theme: just-the-docs
 
 # === GITHUB ACTIONS/PAGES ===
 # Unocmment these for GitHub Pages deployment:
-# remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
