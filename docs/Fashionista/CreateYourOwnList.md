@@ -12,6 +12,20 @@ has_toc: false
 
 Advanced guide for creating your own custom Wabbajack modlist based on Fashionista.
 
+## Links to Pages on Modding
+
+- Moddifying the Game Forum [Planet Vampire](https://planetvampire.freeforums.net/board/7/vtm-bloodlines-modding)
+- Editing Font Files [Reddit](https://www.reddit.com/r/vtmb/comments/158quap/hi_looking_for_some_help_in_translation/)
+- Creating Character Models [ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/tutorials/compiling-a-custom-pc-model-with-ddlullus-mdl-formatter)
+- Editing Font Files [Reddit](https://www.reddit.com/r/vtmb/comments/158quap/hi_looking_for_some_help_in_translation/)
+
+## MO2 Plugin Writing
+
+- Basic Game Plugins [Github](https://github.com/ModOrganizer2/modorganizer-basic_games)
+- MO2 Documentation [MO2](https://www.modorganizer.org/)
+- MO2 wiki [Github](https://github.com/ModOrganizer2/modorganizer/wiki)
+- Python [Github](https://github.com/ModOrganizer2/modorganizer-plugin_python)
+
 ## Creating your own List
 
 Here is some information I have found on modding this game using Wabbajack and ModOrganizer2, that I am organizing here in case it comes in handy for anyone else, as well as to make it easy for me to find if I need it again.
@@ -124,7 +138,22 @@ Follow these steps to set up and configure ReShade properly:
         ; Toggle the ReShade overlay on/off
         KeyOverlay=122,1    ; Control + F11
         ```
-    4. Add a folder called `Root` to the mod folder and copy all the files inside it other than the metafile into it.
+   4. Add a folder called `Root` to the mod folder and copy all the files inside it other than the metafile into it.
+
+## ModDB Meta Files
+
+ModDB Meta Files are a bit of a pain to create do to the download method it uses.
+
+When you click download it will open an iFrame for the download location you will have to right click the iFrame and then open it in a new window and use that url to create the Meta File.
+
+The Contents of the file will look something like this URL https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff
+
+```ini
+[General]
+installed=true
+manualURL=https://www.moddb.com/addons/start/174197
+prompt=Wait for the download to start automaticly for NewPCMod.1.rar
+```
 
 ## Step 5: Wabbajack Compile Settings
 
