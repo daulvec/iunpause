@@ -8,6 +8,8 @@ nav_order: 2
 
 # {{ page.title }}
 
+This page showcases all available Malkavian Female outfits for Vampire: The Masquerade – Bloodlines, with download links and previews as well as what Slots and if there is a HUD provided or not.
+
 ---
 
 ### Blonde_Malkavian - Female - NSFW

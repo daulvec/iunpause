@@ -8,6 +8,8 @@ nav_order: 1
 
 # {{ page.title }}
 
+This page showcases all available Ventrue Male outfits for Vampire: The Masquerade – Bloodlines, with download links and previews as well as what Slots and if there is a HUD provided or not.
+
 ---
 
 ### Libertarian Ventrue - Male
