@@ -11,9 +11,9 @@ This section provides guides for all Clans and their outfit selections.
 
 **Structure:**
 
-- **Clan** → **Gender** → Mod details (name, download link, images, armor slots and if it includeds a hud or not)
+- **Clan** → **Gender** → mod details (name, download link, images, armor slots and if it includeds a HUD or not)
 - *Slot 0 is your starting outfit*
-- *Hud is updating the Inventory Image to use the armor instead of a generic one*
+- *HUD is updating the inventory image to use the armor instead of a generic one*
 
 ## Clan Fashion Guides
 

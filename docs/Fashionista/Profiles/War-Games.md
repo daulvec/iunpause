@@ -22,7 +22,7 @@ More information about War Games can be found on [ModDB](https://www.moddb.com/m
 - **A new short quest in Berlin** - A murder investigation quest is given when you arrive at the crime scene.
 - **Expanded content** - The whole content of this mod will be 118 maps, 198 talking NPCs, 17 bosses, and about 300 new props designed for the era, like cars, trucks, tanks, phones, etc.
 
-## Bug Fixes and Improvements
+## bugfixes and Improvements
 
 - Added visual enhancements to Portsmouth hub, warehouse, Old mill, officer house, train, Berlin, and Nazi base.
 - Lowered Murphy's Law and Massage Paris ambient music.
