@@ -69,7 +69,7 @@ Set the installation location to a folder on the root of a drive, something like
 >C:\Fashionista - Installation location  
 >C:\FashionistaDL - Download location
 >
->The download locatoin does not have to be on the same drive as the installation location and the download location can be on a HDD if needed.
+>The download location does not have to be on the same drive as the installation location and the download location can be on a HDD if needed.
 
 [Previous: Pre-Installation](/Fashionista/Installation/PreInstallation.html){: .btn .btn-purple }
 [Next: Post-Installation](/Fashionista/Installation/PostInstallation.html){: .btn .btn-purple }
