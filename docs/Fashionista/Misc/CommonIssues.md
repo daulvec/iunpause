@@ -24,5 +24,6 @@ Please read through this file before asking questions in discord.
 If you encounter the error depicted here
 ![Image](/media/img/Fashion/CommonIssues/vampire-exe-not-found.png)
 ...click on "Settings" in the top navigation menu.
-Navigate to the "Paths" tab and make sure the path in the "Managed Game" field points to your actual install folder and to the correct path for vampire.exe.
+Navigate to the "Paths" tab and make sure the path in the "Managed Game" field points to your actual install folder and to the correct path for vampire.exe, like depicted below.
+![Image](/media/img/Fashion/CommonIssues/vampire-exe-game-path.png)
 
