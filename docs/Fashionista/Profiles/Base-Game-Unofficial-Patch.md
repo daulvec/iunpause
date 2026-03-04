@@ -11,7 +11,7 @@ nav_order: 2
 {: .warning}
 > **New Game Required** - You must start a new game when switching to this profile. Do not use save files from other profiles or mod versions.
 
-This is just the base game with the Unofficial Patch - this is if all you want is to play the game as it was released with bug fixes.
+This is just the base game with the Unofficial Patch - this is if all you want is to play the game as it was released with bugfixes.
 
 More information can be found at the Unofficial Patch page on the [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/80)
 

@@ -24,24 +24,24 @@ nav_order: 2
 
 ## Setup your Antivirus
 
-Before you say "I don't have an antivirus" — you do, it's built into Windows. You need to ****exclude your Wabbajack folder, base game folder and your Fashionista installation folder__** from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering and in this lists case cause it to not function properly at all.
+Before you say "I don't have an antivirus" — you do, it's built into Windows. You need to **exclude your Wabbajack folder, base game folder and your Fashionista installation folder** from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering and in this lists case cause it to not function properly at all.
 
 {: .tip}
 > How do I do this, you ask? [Click here to find out how.](https://support.microsoft.com/en-gb/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
 
 If you use another antivirus program, refer to their steps for adding an exclusion.
 
-***If you use Webroot, BitDefender, Norton or Kaspersky, I recommend you stop using these as these programs ***actively*** interfere with modlists even when they are excluded. Plus, you're wasting your money.***
+**If you use Webroot, BitDefender, Norton or Kaspersky, I recommend you stop using these as these programs *actively* interfere with modlists even when they are excluded. Plus, you're wasting your money.**
 
 ## Install the game
 
-Install the game either through Steam or GoG, both is fine.
+Install the game through Steam.
 
 {: .caution}
 > You don't need to run the game prior to installing the modlist.  
 > In fact, the game will not start on modern systems. The unofficial patch will fix this.  
 >
-> ****DO NOT INSTALL THE UNOFFICIAL PATCH TO RUN THE GAME****, Wabbajack will take care of that for you during modlist installation.
+> **DO NOT INSTALL THE UNOFFICIAL PATCH TO RUN THE GAME**, Wabbajack will take care of that for you during modlist installation.
 
 {: .warning}
 > You **HAVE** to have to have a clean install of the game or the list will not work.

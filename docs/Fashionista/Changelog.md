@@ -90,7 +90,7 @@ Also if you are on Linux I currently have no way of testing this there so no pro
 # Fashionista 2.0.5
 
 **Info:**
-- Updated Unofficial Patch for bug fixes with bloodheal and Nosferatu functionality
+- Updated Unofficial Patch for bugfixes with bloodheal and Nosferatu functionality
 
 ### Updated Mods
 
@@ -157,7 +157,7 @@ This needed a Special version of Wabbajack to install as it was using the new ex
 ### Fashionista Private Beta 3
 
 1. Add 2 more Profiles HD Overhaul and Base Game.
-2. Bug fixes and backend stuff.
+2. bugfixes and backend stuff.
 
 ### Fashionista 0.1.5
 
@@ -239,7 +239,7 @@ None
 1. Changed the default game launch options from Windowed to Fullscreen.
 2. Re-did most of the Readme with a better layout, Updated images and additional information.
 
-The Core of this update is updating a bunch of textures that did not have hi-res options switching the main profile to Fullscreen instead of Windowed and some bug fixes and cleanup.
+The Core of this update is updating a bunch of textures that did not have hi-res options switching the main profile to Fullscreen instead of Windowed and some bugfixes and cleanup.
 
 Additional overhaul will need to be looked into later as the exe's are not visible to Wabbajack so I cannot include them.
 
@@ -376,7 +376,7 @@ Issues with v1.0.9 caused install issues so this was just a recomile to fix issu
 ### Fixes/Changes
 1. Started Creating Custom Menu's for the various Profiles only have the Main one so far, I do not have an ultrawide monitor so I can not test it on that.
 2. Changed Rootbuilder a bit.
-3. A number of bug fixes.
+3. A number of bugfixes.
 
 There have been a couple of reports of the game crashing when loading large areas, I am in the middle of a playthrough for fun as well as testing and have not run into the issue so far so I can not verrify it. Reloading the game has fixed the issue for some people and for others they disabled a number of the HD textures under Graphics Updates and that fixed the issue.
 

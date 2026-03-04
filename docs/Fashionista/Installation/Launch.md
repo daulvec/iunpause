@@ -13,11 +13,11 @@ nav_order: 5
 # {{ page.title }}
 {: .text-center }
 
-How to launch the game
+How to launch the game:
 
-1. Select ``Fashionista:`` In the top-left corner besides ``Profile`` if its not already selected
-2. In the Top Right Corner next to the Run Button select ``Fashionista`` if its not already selected
-3. Start the Game by clicking the ``Run`` Button
+1. Select ``Fashionista`` In the top-left corner besides ``Profile``, if it's not already selected.
+2. In the top right corner, next to the Run button, select ``Fashionista`` if it's not already selected.
+3. Start the game by clicking the ``Run`` button.
 
 ![Fashionista launch](/media/img/launch.png)
 

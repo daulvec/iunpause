@@ -12,11 +12,11 @@ The modlist includes several optional mods that you can enable or disable to cus
 
 ## Accessibility Mods
 
-The Malkavian fonts use some pretty wild and crazy looking fonts that can be hard for some people to read or even impossible.
+The Malkavian fonts use some pretty wild and crazy looking fonts that can be hard (or even impossible) for some people to read.
 
 I really like the effect but I've included this mod as an option for people who want to remove it.
 
-Enable the following mod to set the font to the default font all the other clans use:
+Enable the following mod to set the font to the default that all the other clans use:
 
 ![Malkavian Font Location](/media/img/Optional%20Mods/Accessibility%20Mods.png)
 
@@ -49,7 +49,7 @@ The alternate option is:
 
 {: .mod}
 >
-> . **Malkavian Whispers UPgraded**
+> . **Malkavian Whispers Upgraded**
 
 This mod adds a chance to play Malkavian whispers on all maps in the game. This changes the same files as the Uninterrupted background music mod and should only be selected if you're playing a Malkavian, so it's disabled by default.
 
