@@ -20,9 +20,9 @@ Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so 
 
 ## Fashionista RTX Edition
 
-[![Fashionista Banner](/media/img/Splash Design - RTX.png)](/Fashionista RTX/Fashion-RTX.html)
+[![Fashionista RTX Banner](/media/img/Splash-Design-RTX.png)](/Fashionista RTX/Fashion-RTX.html)
 
-Fashionista RTX is a Vampire the Masquerade: Bloodlines list that auto installs the RTX Mod for people to try.
+Fashionista RTX Edition is a Vampire the Masquerade: Bloodlines list that auto installs the RTX Mod in Mod Organizer 2
 
 ## Trash Panda Valley
 
