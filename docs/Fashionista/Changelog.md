@@ -10,6 +10,41 @@ has_toc: false
 {: .text-center }
 # {{ page.title }}
 
+# Fashionista 2.1.4
+
+### Updated Mods
+- Bloodlines Extreme
+
+**Info:**
+Also moved the game to Stock Game Folder so the Folder Size for the list got a little larger.
+
+# Fashionista RTX Edition 0.0.3 -  Initial Release
+
+**Info:**
+This is a pretty stock list at this time with only some basic quality of life mods, the Unofficial Patch and the RTX Mod.
+
+I am keeping this mostly stock so you can check out the RTX mod I would suggest the main list for a full playthrough.
+
+You can find the list in Unofficial on Wabbajack
+
+---
+
+<details markdown="1">
+<summary>Older Versions</summary>
+
+# Fashionista 2.1.3.1
+
+**Info:**
+Update to make the list work due to a wabbajack issue with it not including a file...
+If you are one of the like 10 people that installed the list this should fix it.
+
+# Fashionista 2.1.3beta
+
+Just an update to the downloads for ModDB if you already have the latest version no need to update.
+
+This should make all the ModDB mods auto download and make the installation of the list much much easier.
+
+
 # Fashionista 2.1.2
 
 **Info:**
@@ -19,10 +54,6 @@ has_toc: false
 
 Just an update to try to fix GoG Installation for some people.
 
----
-
-<details markdown="1">
-<summary>Older Versions</summary>
 
 # Fashionista 2.1.1
 
