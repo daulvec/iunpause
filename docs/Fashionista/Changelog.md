@@ -10,9 +10,45 @@ has_toc: false
 {: .text-center }
 # {{ page.title }}
 
+# Fashionista 2.1.7
+
+## Updated Mods
+
+### Vampire: The Masquerade – Bloodlines Unofficial Patch
+
+- [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/80)
+
+### BLOODLINES EXTREME
+
+- [ModDB](https://www.moddb.com/mods/bloodlines-hard-difficulty)
+
+## Added Mods
+
+### Prelude Male Hunter Improved
+
+- [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/370)
+
+### Hunter Model Variants for Prelude II
+
+- [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/350)  
+- Includes **Darkskin** and **Lightskin** variants
+
+### Blade – New Order Confusion Music for Asylum
+
+- [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/377)
+
+### Corporate Goth Ventrue and Tremere
+
+- [Nexus](https://www.nexusmods.com/vampirebloodlines/mods/327?tab=files)
+
+### Lasombra / Ventrue Carbon Skin by 3Dell
+
+- [ModDB](https://www.moddb.com/addons/start/126593)
+
 # Fashionista 2.1.4
 
-### Updated Mods
+## Updated Mods
+
 - Bloodlines Extreme
 
 **Info:**
