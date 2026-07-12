@@ -104,6 +104,7 @@ When setting up the Unofficial Patch in the game, the process is a bit different
     1. Move all the files inside the `Unofficial_Patch` into this new mod folder.
 11. Done.
 
+
 ### Reshade setup for the list
 
 Follow these steps to set up and configure ReShade properly:

@@ -41,5 +41,25 @@ The other profiles are harder and I would only suggest them for 2nd playthroughs
 
 It's updated when someone tells me something is broken and I can fix it, I start another playthrough and look for new mods, or the Unofficial Patch updates (within reason).
 
+### Overrides - For the LOVE OF GOD DONT FUCKING TOUCH THIS
+
+Don't fucking touch this and if I find out that you enabled or disabled something in here and I did not tell you to do it I am revoking all support privaliges.
+
+### What Profile should I use?
+
+I suggest the Primary Fashionista Profile for a first time playthough but if you are looking for something different or have played the main game before check out the [Profiles](Profiles.html) page for more information on the almost 20 different Profiles in the list.
+
+{: .caution}
+> Bloodlines is a very VERY old game and has some bugs that are unavoidable, we have tried to limit them but there is one you need to be aware of.
+>
+> You **MUST** to restart the list every 1-3 hours depending on your system as there is a bug that can cause texture or model issues if you do not.
+
+{: .caution}
+> The Game is a bit finiky when it comes to stacking overhauls and if you enable other profiles the game will break or not even launch.
+>
+> The Only Extra Mods you can enable on a profile are the ones in the Fashion, Optional Mods and in some Cases in the Overhauls > {Profile Name} > {Profile Name} - Option Mods folders.
+>
+> All the Option Mods Seperators in Mod Organizer 2 have been Color Coded to be the color Pink for more information please see the [Optional Mods](OptionalMods.html) page.
+
 [Next: Installation](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-center }
