@@ -36,17 +36,25 @@ Here is some information I have found on modding this game using Wabbajack and M
 - The plugin for the game is here: `\ModOrganizerFolder\plugins\basic_games\game\game_vampirebloodlines.py`
 - The `GameDataPath = "vampire"` is the path that it defaults to for installing mods, you probably want to update it to `Unofficial_Patch`
 
-### Stock Game Folder vs Root Builder
+The alternative is to use a Custom Plugin that I developed for the game and that is here [Github](https://github.com/daulvec/Bloodlines_MO2_Plugin) I suggest using this if you plan on having more then one Profile but it is a lot of extra work.
 
-There are 2 main options for setting up the game for a Wabbajack list and I will try to outline the pros and cons of each method here.
+- This has a number of features but requires a lot of manual setup.
+- Multiple Profile Support for Overhauls that use something other the the UnofficialPatch folder
+- Options to setup Custom Mod Folders for your save games per profile
+- Options to setup Custom Mod Folders for inis per profile
+- The option to hide extra exes from the launcher area using a MO2 plugin
+- The option for custom Icons for exes using a MO2 plugin
+
+### Stock Game Folder vs Root Builder vs Stock Game Folder plus Root Builder
+
+There are 3 main options for setting up the game for a Wabbajack list and I will try to outline the pros and cons of each method here.
 
 #### Stock Game Folder
 
 The Stock Game Folder method copies all the game files into a folder in Mod Organizer and then launches the game from this folder.
 
 {: .warning}
-> **Outdated** - GOG is not currently working so I would suggest using the Stock Game folder method at this time.
-
+> **Outdated** - GOG curently does not have the same base game files as Steam so you can only support Steam or GOG so if you want to support both you will need to use the Stock Game folder
 
 ##### Pros
 
@@ -79,6 +87,13 @@ The Stock Game Folder method copies all the game files into a folder in Mod Orga
 ### Root Builder Setup and Info
 
 Any mod or files in a mod that you want to go into the root of the game folder you would put inside a folder named "root" when setting up the mod.
+
+### Stock Game Folder plus Root Builder.
+
+#### Pros
+
+This is the most flexible option and it is the one that I am using
+
 
 ### Unofficial Patch
 
@@ -305,3 +320,23 @@ Example of the `mm_*.vmt`:
     "$detailscale" "1"
 }
 ```
+
+#### Nexus Mods meta files.
+
+Nexus updated there download settings and now its much harder to get the information you need for creating custom Meta Files.
+
+This is normally not an issue as you can just use the download with Manager option and use the Meta Files that MO2 auto creates for you however there are some files such as the Unofficial Patch that don't have a download with Manager option so you will have to manually create them.
+
+1. Download the file.
+2. Take a look at the file name I am going to use the current at this time version of the Unofficial Patch ``VTMBup115.82 80 11.5 2026-07-07T19-21Z t8GurPi2.exe`` the last characters at the end of the file name is the file slug in this case ``t8GurPi2``
+3. Then we need to make a custom URL using this format ``https://www.nexusmods.com/mods/{slug}`` so in this case ``https://www.nexusmods.com/mods/t8GurPi2``
+4. Then load this URL into new tab in your web browser and its going to take you to a different URL in this case ``https://www.nexusmods.com/vampirebloodlines/mods/80?tab=files&show_file=1581``
+5. Then you need to make a new text document with the same name as the download file with ``.meta`` at the end so ``VTMBup115.82 80 11.5 2026-07-07T19-21Z t8GurPi2.exe``
+6. In this file you will need to fill out the following replacing the modID and fileID with what your url contains.
+``` ini
+[General]
+gameName=vampirebloodlines
+modID=80
+fileID=1581
+```
+7. Save the file and move the exe and meta file into your downloads folder for the Wabbajack list.

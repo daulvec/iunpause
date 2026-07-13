@@ -44,9 +44,9 @@ Some of the overhauls when they are installing come with multiple options, I hav
 {: .caution}
 > These Mods ONLY work Per-Profile and if you enable one that for say Bloodlines Extreme it will **Not** work for Fashionistal
 
-You find these mods in Overhaulse > {{Overhauls Name}} > {{Overhauls Name}} - Optional Mods
+You find these mods in Overhauls > Overhauls Name > Overhauls Name - Optional Mods
 
-I have enabled the recommended ones for each Overhaul or what my preferance is but feel free to enable what you want.
+I have enabled the recommended ones for each Overhaul or what my preference is, but feel free to enable what you want.
 
 ## Optional Mods Seperator
 

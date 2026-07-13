@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The Final Nights: Reborn
+title: The Final Nights Reborn
 parent: Profiles
 grand_parent: Fashionista
-nav_order: 16
+nav_order: 17
 ---
 
 # {{ page.title }}
