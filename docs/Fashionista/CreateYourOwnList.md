@@ -36,16 +36,17 @@ Here is some information I have found on modding this game using Wabbajack and M
 - The plugin for the game is here: `\ModOrganizerFolder\plugins\basic_games\game\game_vampirebloodlines.py`
 - The `GameDataPath = "vampire"` is the path that it defaults to for installing mods, you probably want to update it to `Unofficial_Patch`
 
-The alternative is to use a Custom Plugin that I developed for the game and that is here [Github](https://github.com/daulvec/Bloodlines_MO2_Plugin) I suggest using this if you plan on having more then one Profile but it is a lot of extra work.
+The alternative is to use a Custom Plugin that I developed for the game and that is [here](https://github.com/daulvec/Bloodlines_MO2_Plugin).  
+I suggest using this if you plan on having more then one Profile, but it is a lot of extra work.
 
 - This has a number of features but requires a lot of manual setup.
-- Multiple Profile Support for Overhauls that use something other the the UnofficialPatch folder
-- Options to setup Custom Mod Folders for your save games per profile
-- Options to setup Custom Mod Folders for inis per profile
-- The option to hide extra exes from the launcher area using a MO2 plugin
-- The option for custom Icons for exes using a MO2 plugin
+- Multiple profile support for overhauls that use something other the the UnofficialPatch folder.
+- Options to setup custom mod folders for your save games per profile.
+- Options to setup custom mod folders for inis per profile.
+- The option to hide extra exes from the launcher area using a MO2 plugin.
+- The option for custom icons for exes using a MO2 plugin.
 
-### Stock Game Folder vs Root Builder vs Stock Game Folder plus Root Builder
+### Stock Game Folder vs Root Builder vs Both
 
 There are 3 main options for setting up the game for a Wabbajack list and I will try to outline the pros and cons of each method here.
 
@@ -54,16 +55,16 @@ There are 3 main options for setting up the game for a Wabbajack list and I will
 The Stock Game Folder method copies all the game files into a folder in Mod Organizer and then launches the game from this folder.
 
 {: .warning}
-> **Outdated** - GOG curently does not have the same base game files as Steam so you can only support Steam or GOG so if you want to support both you will need to use the Stock Game folder
+> **Outdated** - GOG curently does not have the same base game files as Steam, so you can only support Steam or GOG. If you want to support both you will need to use the Stock Game folder.
 
 ##### Pros
 
-- Probably the easiest to set up
-- Will let you have multiple lists installed without having issues with other lists
+- Probably the easiest to set up.
+- Will let you have multiple lists installed without conflicting with other lists.
   - This is currently not a big deal as this is the only VtM:B list, but this could change in the future.
-- You can add an ENB to the Stock Game folder
-- You can install the Unofficial Patch to the Stock Game folder and this is the easiest method to add the patch
-- Faster
+- You can add an ENB to the Stock Game folder.
+- You can install the Unofficial Patch to the Stock Game folder and this is the easiest method to add the patch.
+- Faster.
 
 ##### Cons
 
@@ -77,22 +78,22 @@ The Stock Game Folder method copies all the game files into a folder in Mod Orga
 - Can support multiple platforms. Currently only:
   - GOG
   - Steam
-- Can install mods to the root of the game folder so certain mods will work
+- Can install mods to the root of the game folder so certain mods will work.
 
 #### Cons
 
-- Can be much slower to launch the game if you try to run the full game or all the mods through it
-- Harder to set up and work with
+- Can be much slower to launch the game if you try to run the full game or all the mods through it.
+- Harder to set up and work with.
 
-### Root Builder Setup and Info
+#### Root Builder Setup and Info
 
-Any mod or files in a mod that you want to go into the root of the game folder you would put inside a folder named "root" when setting up the mod.
+Any mod or files in a mod (that you want to go into the root of the game folder) you put inside a folder named "root" when setting up the mod.
 
-### Stock Game Folder plus Root Builder.
+### Both (Stock Game Folder + Root Builder)
 
 #### Pros
 
-This is the most flexible option and it is the one that I am using
+- This is the most flexible option and it is the one that I am using.
 
 
 ### Unofficial Patch

@@ -43,7 +43,7 @@ It's updated when someone tells me something is broken and I can fix it, I start
 
 ### Overrides - For the LOVE OF GOD DONT FUCKING TOUCH THIS
 
-Don't fucking touch this and if I find out that you enabled or disabled something in here and I did not tell you to do it I am revoking all support privaliges.
+Don't fucking touch this and if I find out that you enabled or disabled something in here (and I did not tell you to do it) I am revoking all support privileges.
 
 ### What Profile should I use?
 
@@ -55,11 +55,11 @@ I suggest the Primary Fashionista Profile for a first time playthough but if you
 > You **MUST** to restart the list every 1-3 hours depending on your system as there is a bug that can cause texture or model issues if you do not.
 
 {: .caution}
-> The Game is a bit finiky when it comes to stacking overhauls and if you enable other profiles the game will break or not even launch.
+> The Game is a bit finicky when it comes to stacking overhauls and if you enable other profiles, the game will break or not even launch.
 >
-> The Only Extra Mods you can enable on a profile are the ones in the Fashion, Optional Mods and in some Cases in the Overhauls > {Profile Name} > {Profile Name} - Option Mods folders.
+> The Only extra mods you can enable on a profile are the ones in the Fashion, Optional Mods, and in some Cases in the Overhauls > {Profile Name} > {Profile Name} - Option Mods folders.
 >
-> All the Option Mods Seperators in Mod Organizer 2 have been Color Coded to be the color Pink for more information please see the [Optional Mods](OptionalMods.html) page.
+> All the option mods seperators in Mod Organizer 2 have been color coded (to be the color pink) for easy identification. For more information please see the [Optional Mods](OptionalMods.html) page.
 
 [Next: Installation](/Fashionista/Installation.html){: .btn .btn-purple }
 {: .text-center }
