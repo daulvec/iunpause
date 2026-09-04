@@ -28,10 +28,10 @@ This game has the option for your character to have 5 different outfits (one sta
 
 The mods in each area have a note that has information on what they cover; armor 0-4, HUD and hands.
 
-- **Armor** ::  is your starting outfit.
-- **Armor** :: 1-4 are the other 4 outfits in the game.
-- **HUD** :: means that the UI will be updated so that the outfit looks the same as the item your character is wearing.
-- **Hands** :: means that there is custom Hands for the first person view of the character.
+- **Armor**: 0 is your starting outfit.
+- **Armor**: 1-4 are the other 4 outfits in the game.
+- **HUD**: means that the UI will be updated so that the outfit looks the same as the item your character is wearing.
+- **Hands**: means that there is custom Hands for the first person view of the character.
 
 I have enabled my preferred defaults for the Fashionista profile, but feel free to take a look at the [Fashion page](Fashion.html) to take a look at most of the outfits that are in the list. I have not updated a fair number of them due to time but I will get to them all eventually.
 
