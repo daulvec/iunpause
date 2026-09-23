@@ -19,6 +19,8 @@ How to launch the game:
 2. In the executable menu next to **Run**, choose that profile's **Windowed** or **Fullscreen** option. MO2 displays only these two executables for the selected profile.
 3. Click **Run**.
 
+Windowed is the default. To make MO2 select Fullscreen automatically when you switch to a profile, open **Tools > Profile Executable Selector**, find that profile, and set **Auto-Select** to its Fullscreen executable.
+
 The screenshots on this page show an older executable label. In the current list, choose **Windowed** or **Fullscreen** for your selected profile.
 
 ![Fashionista launch](/media/img/launch.png)
