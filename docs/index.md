@@ -42,6 +42,6 @@ There is currently no support and is provided as is.
 
 ## Modding Bloodlines
 
-[![Modding Bloodlines Banner](/media/img/Modding-Bloodlines-Banner.png)](/ModdingBloodlines/ModdingBloodlines.html)
+[Explore Modding Bloodlines](/ModdingBloodlines/ModdingBloodlines.html){: .btn .btn-purple }
 
 A comprehensive guide and resource collection for modding Vampire: The Masquerade - Bloodlines. Whether you're new to modding or looking to create your own content, this section provides tutorials, tools, and community resources.

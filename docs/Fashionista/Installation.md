@@ -22,6 +22,8 @@ Some small notes about the list, the support, and troubleshooting before we get 
 - We're modding an over 20-year-old game here, please temper your expectations some.
 - Suggestions are fine, but I have looked at every single mod on the Nexus for the list, so there is a decent chance I looked at it and said no, or there are issues with adding it due to compatability. But there is always a chance, or it might be a new mod — they still do come out from time to time, or something I missed.
 
+If you need help, use the [support checklist](/Fashionista/Misc/CommonIssues.html#getting-support) so your report includes the profile, error details, and any changes you made to the list.
+
 [Previous: Fashionista](/Fashionista/Fashionista.html){: .btn .btn-purple }
 [Next: Pre-Installation](/Fashionista/Installation/Requirements.html){: .btn .btn-purple }
 {: .text-center }

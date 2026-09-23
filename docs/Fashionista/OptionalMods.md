@@ -75,20 +75,28 @@ Enable the following mod to set the font to the default one that all the other c
 
 ![Malkavian Font Location](/media/img/Optional%20Mods/Accessibility%20Mods.png)
 
-## ENB / Reshade
+## ReShade and ENB
 
-The ENB I've selected is a good general ENB, but I've added a couple extra options if you want to try something different.
+ReShade options are in **Optional Mods > Reshades**. Disable one preset before enabling another.
 
-![ENB and Reshade Location](/media/img/Optional%20Mods/ENB.png)
+| Feature         | Keybind    | Description                          |
+| --------------- | ---------- | ------------------------------------ |
+| ReShade Effects | Ctrl + F12 | Toggle all ReShade effects on/off    |
+| ReShade Overlay | Ctrl + F11 | Toggle ReShade configuration overlay |
 
-To switch ENBs or ReShade, you need to disable the current one and enable the new one you want.
+ENBs are no longer included with Fashionista because I do not want to redistribute those files. If you want to use one, download it from its original mod page and add it to your own installation.
 
-| Feature         | Keybind      | Description                          |
-| --------------- | ------------ | ------------------------------------ |
-| ReShade Effects | Ctrl + F12   | Toggle all ReShade effects on/off    |
-| ReShade Overlay | Ctrl + F11   | Toggle ReShade configuration overlay |
-| ENB Effects     | Shift + F12  | Toggle all ENB effects on/off        |
-| ENB Overlay     | Ctrl + Enter | Toggle ENB configuration overlay     |
+### Add Dev0lved ENB yourself
+
+1. Download the Dev0lved ENB archive from its [Nexus Mods files page](https://www.nexusmods.com/vampirebloodlines/mods/10?tab=files).
+2. In MO2, install the archive as a new mod. If MO2 shows an installation tutorial, select **Exit Tutorial**.
+3. In MO2's installation dialog, right-click the top-level `unofficial_patch` folder and create a directory named `Root` inside it.
+4. Select every other file and folder in `unofficial_patch` and move them into `Root`. The `Root` folder should now contain the ENB files, including `d3d9.dll` and `enbseries.ini`.
+5. Continue past MO2's folder-structure warning and complete the installation.
+6. Move the new mod under **Optional Mods > Reshades** in MO2's left panel and enable it.
+7. Launch the game through MO2. An ENB notification in the game window confirms that it loaded.
+
+Keep any other ENB disabled while testing this one. Because this is a user-added mod, include it in the [changes you report when asking for support](/Fashionista/Misc/CommonIssues.html#getting-support).
 
 ### Malkavian Whispers
 

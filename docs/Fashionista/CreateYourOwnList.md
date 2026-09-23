@@ -30,6 +30,8 @@ Advanced guide for creating your own custom Wabbajack modlist based on Fashionis
 
 Here is some information I have found on modding this game using Wabbajack and ModOrganizer2, that I am organizing here in case it comes in handy for anyone else, as well as to make it easy for me to find if I need it again.
 
+For overhaul installers that come as Inno Setup `.exe` files, see [Extracting mod installers](/ModdingBloodlines/ExtractingInstallers.html) before building the separate MO2 mods you need.
+
 ## Setting Up Mod Organizer
 
 - Mod Organizer needs to be installed as the Portable Version.

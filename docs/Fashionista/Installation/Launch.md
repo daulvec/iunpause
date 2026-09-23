@@ -25,7 +25,7 @@ The screenshots on this page show an older executable label. In the current list
 
 ## Selecting an Alternate Profile
 
-Select the other profile from the **Profile** menu, then choose its **Windowed** or **Fullscreen** executable and click **Run**. In the Option Mods area, you can pick an ENB or ReShade and a font option. Other options may be specific to the main Fashionista profile; check the [Optional Mods](/Fashionista/OptionalMods.html) page before enabling them.
+Select the other profile from the **Profile** menu, then choose its **Windowed** or **Fullscreen** executable and click **Run**. In the Option Mods area, you can pick a ReShade or font option. ENBs are no longer included; see [Optional Mods](/Fashionista/OptionalMods.html) if you want to add one yourself. Other options may be specific to the main Fashionista profile, so check that page before enabling them.
 
 ## Things to know before you start
 
@@ -38,6 +38,22 @@ Select the other profile from the **Profile** menu, then choose its **Windowed**
 Select the profile and its **Windowed** or **Fullscreen** executable first. Click **Shortcut**, then **Desktop** to create a shortcut for that choice.
 
 ![Desktop Shortcut Creation](/media/img/Shortcut.png)
+
+### Launch through Steam
+
+For the **Steam** version of Fashionista, you can use Steam's Play button to start the MO2 executable for your selected profile. This may let Steam track play time and apply your Steam controller setup.
+
+1. In MO2, choose your profile and its **Windowed** or **Fullscreen** executable, then create a desktop shortcut using the steps above.
+2. Check the shortcut's target for the executable name after `moshortcut://:`. Use that exact name in the Steam launch option.
+3. In Steam, right-click **Vampire: The Masquerade - Bloodlines**, open **Properties > General**, and enter a launch option like this, replacing the MO2 path and executable name with yours:
+
+   ```text
+   "C:\Modding\Fashionista\ModOrganizer.exe" "moshortcut://:Fashionista Windowed" %command%
+   ```
+
+4. Start Bloodlines from Steam. If you change profiles or display mode, update the executable name in the launch option to match the new MO2 shortcut.
+
+If Steam no longer launches the list correctly, remove the custom launch option and start the game from MO2.
 
 [Previous: Post Installation](/Fashionista/Installation/PostInstallation.html){: .btn .btn-purple }
 [Next: Update the List](/Fashionista/Installation/Updating%20Fashionista.html){: .btn .btn-purple }
