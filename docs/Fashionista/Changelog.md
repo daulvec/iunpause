@@ -14,6 +14,61 @@ has_toc: false
 
 Fashionista is available as separate Steam and GOG Wabbajack lists. Both contain the same mods and profiles. Install the list that matches your copy of Bloodlines; see the [requirements](/Fashionista/Installation/Requirements.html) and [installation guide](/Fashionista/Installation.html).
 
+# Fashionista GOG 2.4.6.3
+
+- Fixed a mismatch between the GOG and Steam builds that prevented the GOG list from working correctly.
+
+# Fashionista 2.4.6
+
+- Updated the [Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80) to `VTMBup115.84 80 11.5 2026-09-09T08-50Z pmOMKVgN.exe`.
+- Fixed the optional Malkavian font file.
+
+# Fashionista Steam 2.4 / GOG 1.3.3
+
+This was a large update to both store builds. The GOG build received additional compatibility work. The GOG version was also made available on Nexus Mods.
+
+## Added and updated
+
+- Added Bloodlines Extreme 2.1.4, BAEO and its 1.0a patch, Clan Quest UPgraded and its patch, Companion Mod Core Edition 5, The Final Nights Reborn and its patch, LA by Night and its hotfix, Barabbah's Addon 7.9.9b, an NSFW poster pack, and controller support.
+- Updated the Unofficial Patch, VTMB HD Overhaul, and Camarilla Edition Reborn.
+
+## Removed or replaced
+
+- Removed the older Bloodlines Extreme 2.1.3 archive, Dev0lved ENB, older VTMB HD Overhaul files and compatibility archives, Clan Quest Mod Voices Remastered, an older Barabbah's Addon and radio archive, the Unrealistically Realistic ENB/ReShade package, and the Nadia seduction mod.
+
+# Fashionista GOG Edition 1.0
+
+- Released a separate GOG build with the same intended content as the Steam build. A GOG copy of Bloodlines is required for this version.
+
+# Fashionista 2.3.3.3
+
+- Added [Executable Icon Fixer](https://www.nexusmods.com/site/mods/1996) and [Profile Executable Selector](https://www.nexusmods.com/site/mods/1992) to MO2.
+- Fixed a missing CFG file and an installation issue. This release did not add gameplay content; existing users could generally skip it.
+
+# Fashionista 2.2.3
+
+- Added a new profile.
+- Added Profile Executable Selector. Each profile now shows two executables, **Windowed** and **Fullscreen**, instead of the full list of executables for every profile. Windowed is selected by default.
+- To change a profile's default, open **Tools > Profile Executable Selector**, find the profile, and set **Auto-Select** to its Fullscreen executable.
+
+# Fashionista 2.2.1
+
+## Graphics and outfits
+
+- Reviewed the graphics mods and moved the main Fashionista profile closer to the original game's look. The HD Overhaul profile remains an option for the previous style. To recreate that look in the Fashionista profile, enable **HD Overhaul - World Texture Separation 1 3**, **World Texture Separation 2 3**, **Model Texture Separation 3 3**, **Only Characters**, and **UI UX Separation** under **Overhauls > HD Overhaul**.
+- Removed some AI-generated assets, **World assets improved**, and **HD GROUNDS WIP**. The latter was already fully overwritten.
+- Updated NPC appearances, including Mercurio, Venus, Prince LaCroix, and Mingxiao.
+- Added and updated outfits, including clan-specific splits and comments noting first-person hand replacements. The [Fashion pages](/Fashionista/Fashion.html) may not yet show every new outfit.
+- Added posters, adjusted movement in the Fashionista profile, and disabled all ENBs and ReShades by default for that profile.
+
+## Options, overhauls, and fixes
+
+- Fixed the main menu conflict with alternate HUD mods and added the HD Overhaul HUD under **Optional Mods > UI Themes**.
+- Added **Optional music HUSHED** under **Optional Mods > Audio Options**, enabled by default.
+- Split several overhauls into separate optional mods. Barabbah's Arsenal Mod and optional clans are under **Overhauls > Barabbah_Addon Overhaul > Barabbah Optional Mods**.
+- Updated Barabbah Overhaul to 7.9.9 and Companion Mod Core Edition to v3-2026-A, including their radio updates. Added the Camarilla Edition Reborn radio update.
+- Updated Nested Folders, cleaned up MO2 colors and comments, removed old archives and test saves, and fixed missing CFG files, eye textures, and overwrite issues.
+
 # Fashionista 2.1.7
 
 ## Updated Mods
