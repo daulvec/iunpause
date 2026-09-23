@@ -34,7 +34,7 @@ Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs &
 
 ## You Will Need
 
-- The base game on **STEAM** (GoG and retail versions are **NOT SUPPORTED**)
+- A clean copy of Vampire: The Masquerade - Bloodlines on **Steam or GOG**. Choose the matching Fashionista list in Wabbajack. Retail versions are not supported.
 - A Nexus Premium account if you do not want to click install 100 times
 - The ability to read and follow instructions
 - Patience

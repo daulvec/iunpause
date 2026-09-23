@@ -18,11 +18,15 @@ A website for support of all my Wabbajack Mod Lists.
 
 Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so when I reinstall the game every 6 months I don't have to redo my mod setup. It's here in case other people are like me. Its focus is a bit all over the place but it contains new content, better graphics, changes to the looks of the characters, changes to the UI, and a ton of bug fixes.
 
+Fashionista has separate Steam and GOG Wabbajack lists with the same mods and profiles. Choose the list that matches your copy of Bloodlines. [See the installation requirements](/Fashionista/Installation/Requirements.html) before you begin.
+
 ## Fashionista RTX Edition
 
 [![Fashionista RTX Banner](/media/img/RTX/Splash-Design-RTX.png)](/FashionistaRTX/Fashion-RTX.html)
 
-Fashionista RTX Edition is a Vampire the Masquerade: Bloodlines list that auto installs the RTX Mod in Mod Organizer 2
+Fashionista RTX Edition is a Vampire the Masquerade: Bloodlines list that auto installs the RTX Mod in Mod Organizer 2. **The RTX list requires the Steam version of Bloodlines; GOG is not supported for RTX at this time.**
+
+[Install Fashionista RTX](/FashionistaRTX/Fashion-RTX.html#installation)
 
 ## Trash Panda Valley
 

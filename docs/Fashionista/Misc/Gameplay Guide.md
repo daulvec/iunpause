@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Fashion
-parent: About the List
-grand_parent: Fashionista
-nav_order: 2
+title: Gameplay Guide
+nav_exclude: true
 ---
 
 # {{ page.title }}

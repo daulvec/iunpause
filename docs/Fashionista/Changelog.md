@@ -10,6 +10,10 @@ has_toc: false
 {: .text-center }
 # {{ page.title }}
 
+## GOG list availability
+
+Fashionista is available as separate Steam and GOG Wabbajack lists. Both contain the same mods and profiles. Install the list that matches your copy of Bloodlines; see the [requirements](/Fashionista/Installation/Requirements.html) and [installation guide](/Fashionista/Installation.html).
+
 # Fashionista 2.1.7
 
 ## Updated Mods

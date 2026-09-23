@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 [Previous: Post Installation](/Fashionista/Installation/PostInstallation.html){: .btn .btn-purple }
-[Next: Update the List](/Fashionista/Installation/Updating Fashionista.html){: .btn .btn-purple }
+[Next: Update the List](/Fashionista/Installation/Updating%20Fashionista.html){: .btn .btn-purple }
 {: .text-center }
 
 # {{ page.title }}
@@ -15,33 +15,30 @@ nav_order: 5
 
 How to launch the game:
 
-1. Select ``Fashionista`` In the top-left corner besides ``Profile``, if it's not already selected.
-2. In the top right corner, next to the Run button, select ``Fashionista`` if it's not already selected.
-3. Start the game by clicking the ``Run`` button.
+1. In MO2, select the profile you want to play from the **Profile** menu in the top-left corner.
+2. In the executable menu next to **Run**, choose that profile's **Windowed** or **Fullscreen** option. MO2 displays only these two executables for the selected profile.
+3. Click **Run**.
+
+The screenshots on this page show an older executable label. In the current list, choose **Windowed** or **Fullscreen** for your selected profile.
 
 ![Fashionista launch](/media/img/launch.png)
 
 ## Selecting an Alternate Profile
 
-If you want to play one of the other profiles on the list you need to do some extra steps.
-
-1. In Mod Organizer 2 Select the Profile you wish to play in the Profile Drop Down
-2. Then in the Executables area next to the run button Pick the Option that Matches with your Profile.
-3. In the Option Mods area you can pick an ENB or Reshade and the Font option but the other Options should not be selected as they are only for the Fashionista Profile.
+Select the other profile from the **Profile** menu, then choose its **Windowed** or **Fullscreen** executable and click **Run**. In the Option Mods area, you can pick an ENB or ReShade and a font option. Other options may be specific to the main Fashionista profile; check the [Optional Mods](/Fashionista/OptionalMods.html) page before enabling them.
 
 ## Things to know before you start
 
 1. This game is buggy, You NEED to save and close the game and reopen it every hour or 2.
-2. If you do not select the correct Executable the game might still launch and you can play BUT you will not actually be playing the overhaul and things can and will bug out.
-3. Your Saves should be stored a Mod in the Left Hand Panel under ``Overrides - For the LOVE OF GOD DONT FUCKING TOUCH THIS`` normally with a name something like ``Profile Name Override``S
-   1. Right click the Mod and ``Open with Explorer`` and then back up the save folder.
+2. Use the **Windowed** or **Fullscreen** executable shown for your selected profile so the correct overhaul launches.
+3. Your saves are in MO2's left panel under `#Overrides - For the LOVE OF GOD DONT FUCKING TOUCH THIS` > `{profile name} Override`. See [Updating the List](/Fashionista/Installation/Updating%20Fashionista.html) for backup steps.
 
 ### Creating a desktop shortcut
 
-Make sure that **Fashionista** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop".
+Select the profile and its **Windowed** or **Fullscreen** executable first. Click **Shortcut**, then **Desktop** to create a shortcut for that choice.
 
 ![Desktop Shortcut Creation](/media/img/Shortcut.png)
 
 [Previous: Post Installation](/Fashionista/Installation/PostInstallation.html){: .btn .btn-purple }
-[Next: Update the List](/Fashionista/Installation/Updating Fashionista.html){: .btn .btn-purple }
+[Next: Update the List](/Fashionista/Installation/Updating%20Fashionista.html){: .btn .btn-purple }
 {: .text-center }

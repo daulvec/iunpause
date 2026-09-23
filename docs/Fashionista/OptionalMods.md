@@ -3,7 +3,7 @@ layout: default
 title: Optional Mods
 parent: Fashionista
 nav_order: 4
-has_children: true
+has_children: false
 ---
 
 # {{ page.title }}

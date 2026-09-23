@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Fashionista RTX
-nav_order: 2
-has_children: true
+nav_order: 3
+has_children: false
 has_toc: false
 ---
 
@@ -22,6 +22,18 @@ has_toc: false
 ## What is Fashionista RTX Edition?
 
 Fashionista RTX Edition is a Vampire the Masquerade: Bloodlines list that I put together so I could try out the RTX Mod. The mod is Built to use the Unofficial Patch as a Base and then overhaul all the graphics.
+
+{: .important}
+> Fashionista RTX currently requires the **Steam version of Bloodlines**. The GOG version is not supported for this list.
+
+## Installation
+
+1. Install a clean Steam copy of Bloodlines. Do not install a separate Unofficial Patch before installing the list.
+2. Open Wabbajack, include non-featured lists, and filter for **Vampire: The Masquerade - Bloodlines**.
+3. Select **Fashionista RTX Edition** and follow Wabbajack's download and installation prompts.
+4. Open the installed list's `ModOrganizer.exe` and launch the game through MO2.
+
+The regular Fashionista Steam and GOG lists are separate from Fashionista RTX. Select the RTX entry if you want the RTX mod.
 
 ### Is the Mod complete
 

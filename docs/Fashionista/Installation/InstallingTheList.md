@@ -14,7 +14,7 @@ nav_order: 3
 {: .text-center }
 
 {: .important}
->At this time the list **ONLY** Supports Steam, this is unlikley to change in the near future.
+> Choose the Fashionista list that matches your copy of Bloodlines: Steam for Steam, or GOG for GOG. Both lists contain the same mods and profiles.
 
 {: .caution}
 >You don't need to run the game prior to installing the modlist.
@@ -32,7 +32,7 @@ The list is not featured so you will have to check Non-Featured and I would sugg
 {: .text-center }
 ![Getting Started](/media/img/Wabbajack-Filters.png)
 
-Then you will want to select the ``Fashionista`` list.
+Select the Fashionista entry marked Steam or GOG, depending on where you own Bloodlines. The list entries may have different names from the screenshot below; check the store name before continuing.
 
 {: .text-center }
 ![Fashionista Location](/media/img/Wabbajack-List.png)

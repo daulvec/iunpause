@@ -55,8 +55,7 @@ There are 3 main options for setting up the game for a Wabbajack list and I will
 The Stock Game Folder method copies all the game files into a folder in Mod Organizer and then launches the game from this folder.
 
 {: .warning}
-> **Outdated** - GOG curently does not have the same base game files as Steam, so you can only support Steam or GOG. If you want to support both you will need to use the Stock Game folder.
-
+> **Outdated** - GOG curently does not have the same base game files as Steam, so you can only support Steam or GOG and will have to build two lists to support both or not use the Stock Game Folder.
 ##### Pros
 
 - Probably the easiest to set up.
@@ -340,4 +339,5 @@ gameName=vampirebloodlines
 modID=80
 fileID=1581
 ```
+
 7. Save the file and move the exe and meta file into your downloads folder for the Wabbajack list.

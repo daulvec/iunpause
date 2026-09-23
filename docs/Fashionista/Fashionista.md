@@ -30,6 +30,17 @@ has_toc: false
 
 Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so when I reinstall the game every 6 months, I don't have to redo my mod setup. It's here in case other people are like me. Its focus is a bit all over the place but it contains new content, better graphics, changes to the looks of the characters, changes to the UI, and a ton of bugfixes.
 
+## Choose your game version
+
+Fashionista has separate Wabbajack lists for Steam and GOG. They contain the same mods and profiles; the required copy of Bloodlines is the difference.
+
+| Your copy of Bloodlines | Choose in Wabbajack |
+| ----------------------- | ------------------- |
+| Steam | The Fashionista list marked Steam |
+| GOG | The Fashionista list marked GOG |
+
+Choose the list that matches where you own the game. [Start the installation guide](/Fashionista/Installation.html) for the shared setup steps.
+
 ### Is this list suitable for a first time player?
 
 Yes.  
