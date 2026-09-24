@@ -39,6 +39,10 @@ ModDB's *How to Change Clans* tutorial: [Part 1](https://www.moddb.com/games/vam
 
 See [Making animated textures](/ModdingBloodlines/AnimatedTextures.html) for a short workflow using an animated VTF, the Bloodlines texture converter, and an `AnimatedTexture` proxy in `death.vmt`.
 
+### Main menu
+
+See [Editing the main menu](/ModdingBloodlines/EditingMainMenu.html) for notes on logo textures, particles, and skybox files.
+
 ## Build a Wabbajack list
 
 The [Create your own list](/Fashionista/CreateYourOwnList.html) guide explains how Fashionista uses Mod Organizer 2, a stock game folder, Root Builder, the Unofficial Patch, and Wabbajack compile settings. It is an advanced guide based on Fashionista's setup.

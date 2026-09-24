@@ -4,342 +4,122 @@ title: Create your own list
 parent: Reference
 nav_order: 4
 has_children: false
-has_toc: false
+has_toc: true
 ---
 
-{: .text-center }
 # {{ page.title }}
+{: .text-center }
 
-Advanced guide for creating your own custom Wabbajack modlist based on Fashionista.
+This is an advanced guide to building a Bloodlines Wabbajack list with Mod Organizer 2 (MO2). It documents the approach used while developing Fashionista. If you only want to install Fashionista, follow the [installation guide](/Fashionista/Installation.html) instead.
 
-## Links to Pages on Modding
+## Before you start
 
-- Moddifying the Game Forum [Planet Vampire](https://planetvampire.freeforums.net/board/7/vtm-bloodlines-modding)
-- Editing Font Files [Reddit](https://www.reddit.com/r/vtmb/comments/158quap/hi_looking_for_some_help_in_translation/)
-- Creating Character Models [ModDB](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/tutorials/compiling-a-custom-pc-model-with-ddlullus-mdl-formatter)
-- Editing Font Files [Reddit](https://www.reddit.com/r/vtmb/comments/158quap/hi_looking_for_some_help_in_translation/)
+You will need a clean Bloodlines installation, a portable MO2 installation, the Bloodlines MO2 game plugin, the Unofficial Patch installer, and Wabbajack. Keep a separate working folder for extracting installers and a downloads folder for the archives your list will use. The [extracting mod installers](/ModdingBloodlines/ExtractingInstallers.html) guide covers overhauls packaged as Inno Setup `.exe` files.
 
-## MO2 Plugin Writing
+Decide which store version you will build against. Fashionista publishes separate [Steam and GOG lists](/Fashionista/Changelog.html#gog-list-availability), even though they contain the same mods and profiles. Test the output against the game installation it is meant to support.
 
-- Basic Game Plugins [Github](https://github.com/ModOrganizer2/modorganizer-basic_games)
-- MO2 Documentation [MO2](https://www.modorganizer.org/)
-- MO2 wiki [Github](https://github.com/ModOrganizer2/modorganizer/wiki)
-- Python [Github](https://github.com/ModOrganizer2/modorganizer-plugin_python)
+## 1. Set up MO2
 
-## Creating your own List
+1. Install MO2 as a **portable** instance so its configuration and mods stay with the list.
+2. Install a Bloodlines game plugin. The basic games plugin is at `plugins\basic_games\game\game_vampirebloodlines.py` inside MO2. Its `GameDataPath` determines the default destination when installing mods. Set it to the folder your list uses, such as `Unofficial_Patch`, when the default `vampire` folder is not appropriate.
+3. Create a profile and confirm that MO2 can launch your chosen game installation before adding the rest of the list.
 
-Here is some information I have found on modding this game using Wabbajack and ModOrganizer2, that I am organizing here in case it comes in handy for anyone else, as well as to make it easy for me to find if I need it again.
+For several overhaul profiles with different game folders, see the [custom Bloodlines MO2 plugin](https://github.com/daulvec/Bloodlines_MO2_Plugin). It can provide profile-specific mod folders for saves and INI files, along with executable selection and icon options, but it requires more manual setup.
 
-For overhaul installers that come as Inno Setup `.exe` files, see [Extracting mod installers](/ModdingBloodlines/ExtractingInstallers.html) before building the separate MO2 mods you need.
+## 2. Choose how to handle game files
 
-## Setting Up Mod Organizer
+| Approach | Useful when | Main tradeoff |
+| --- | --- | --- |
+| Stock game folder | You want an isolated copy of the game inside the list. | The copied base files tie the list to the store build used to create them. |
+| Root Builder | You need MO2 mods to place files beside `vampire.exe`. | Putting many files through Root Builder can make launch slower and setup more involved. |
+| Both | You need an isolated game copy and selected root-level files from MO2 mods. | You must maintain both the stock folder and Root Builder layout. |
 
-- Mod Organizer needs to be installed as the Portable Version.
-- The plugin for the game is here: `\ModOrganizerFolder\plugins\basic_games\game\game_vampirebloodlines.py`
-- The `GameDataPath = "vampire"` is the path that it defaults to for installing mods, you probably want to update it to `Unofficial_Patch`
+With Root Builder, put files that must land in the game root inside a `Root` folder in the relevant MO2 mod. Keep ordinary files out of that folder. For a large mod such as the Unofficial Patch, separate root-level files from files that MO2 can load normally; this reduces the number of files Root Builder has to process.
 
-The alternative is to use a Custom Plugin that I developed for the game and that is [here](https://github.com/daulvec/Bloodlines_MO2_Plugin).  
-I suggest using this if you plan on having more then one Profile, but it is a lot of extra work.
+If you copy a game installation into a stock folder, build and test it for the same store version. The [Fashionista requirements](/Fashionista/Installation/Requirements.html) describe the Steam and GOG versions supported by Fashionista; your own list needs its own compatibility testing.
 
-- This has a number of features but requires a lot of manual setup.
-- Multiple profile support for overhauls that use something other the the UnofficialPatch folder.
-- Options to setup custom mod folders for your save games per profile.
-- Options to setup custom mod folders for inis per profile.
-- The option to hide extra exes from the launcher area using a MO2 plugin.
-- The option for custom icons for exes using a MO2 plugin.
+## 3. Split the Unofficial Patch into MO2 mods
 
-### Stock Game Folder vs Root Builder vs Both
+The Unofficial Patch installer patches `vampire.exe`, so prepare it in a temporary folder rather than installing all of its files into the game folder you are building from.
 
-There are 3 main options for setting up the game for a Wabbajack list and I will try to outline the pros and cons of each method here.
+1. Copy `vampire.exe` from the store installation into a short working path, for example `C:\VTMB-work`. A short path also helps avoid Windows path-length problems.
+2. Run the Unofficial Patch installer and select that working folder as its destination. Choose either **Core** or **Plus** for the list you are building. Core keeps the base-game approach; Plus includes restored content.
+3. After installation, make an MO2 mod called **Unofficial Patch - Root**. Inside it, create a `Root` folder and put the files from the top level of the working folder there, excluding the `Unofficial_Patch` directory.
+4. Make a second MO2 mod called **Unofficial Patch - Game Data**. Put the contents of the working folder's `Unofficial_Patch` directory in this mod, with its files at the mod's top level.
+5. Enable both mods and launch the game through MO2. Check that the executable and patch content used by the selected profile work together before adding more mods.
 
-#### Stock Game Folder
+These names distinguish the two parts of the patch in MO2. Adjust the game-data mod layout if your game plugin expects a different folder structure.
 
-The Stock Game Folder method copies all the game files into a folder in Mod Organizer and then launches the game from this folder.
+## 4. Add optional root-level components
 
-{: .warning}
-> **Outdated** - GOG curently does not have the same base game files as Steam, so you can only support Steam or GOG and will have to build two lists to support both or not use the Stock Game Folder.
-##### Pros
+ReShade is one example of a component that needs files in the game root. The following is a workflow example; use the setup program and files supplied with the ReShade version you choose.
 
-- Probably the easiest to set up.
-- Will let you have multiple lists installed without conflicting with other lists.
-  - This is currently not a big deal as this is the only VtM:B list, but this could change in the future.
-- You can add an ENB to the Stock Game folder.
-- You can install the Unofficial Patch to the Stock Game folder and this is the easiest method to add the patch.
-- Faster.
+1. Make a temporary folder for the ReShade option and copy `vampire.exe` into it.
+2. Put the preset's `.ini` file in that folder. Run the ReShade setup program against the copied executable and select **DirectX 9** and the preset when prompted.
+3. Remove the temporary executable after setup. Review the generated files, including any license or redistribution terms, before packaging them in your list.
+4. Put the files that need to land beside the game executable inside a `Root` folder in their MO2 mod.
+5. If you want these shortcuts, edit the generated `ReShade.ini`:
 
-##### Cons
+   ```ini
+   [INPUT]
+   ; Control + F12 toggles effects
+   KeyEffects=123,1
+   ; Control + F11 toggles the overlay
+   KeyOverlay=122,1
+   ```
 
-- Can only support one platform and I have found a lot of people own the game on GOG, or can get it easier in certain countries that do not allow them to purchase the game.
-- Certain Mods might not work unless you do a hybrid method also using root builder, as mod folders are a bit all over the place with this game.
+Keep the license supplied with the component you actually package. Do not add a placeholder license just to affect compilation.
 
-### Root Builder
-
-#### Pros
-
-- Can support multiple platforms. Currently only:
-  - GOG
-  - Steam
-- Can install mods to the root of the game folder so certain mods will work.
-
-#### Cons
-
-- Can be much slower to launch the game if you try to run the full game or all the mods through it.
-- Harder to set up and work with.
-
-#### Root Builder Setup and Info
-
-Any mod or files in a mod (that you want to go into the root of the game folder) you put inside a folder named "root" when setting up the mod.
-
-### Both (Stock Game Folder + Root Builder)
-
-#### Pros
-
-- This is the most flexible option and it is the one that I am using.
-
-
-### Unofficial Patch
-
-When setting up the Unofficial Patch in the game, the process is a bit different than you would think.
-
-1. Start by making sure the game is installed and then browse to the installation folder.
-2. Grab the vampire.exe file, make a copy of it and paste it into a new folder, preferably close to the root of the drive.
-   - This is because of the limited maximum path length in Windows.
-   - So something like `C:\Temp`.
-3. Download the Unofficial patch.
-4. Double click to install the patch and then when it asks where you want it installed, change the path to the folder you set up in step 2.
-   - This is done as the Unofficial Patch needs to patch the EXE of the game, but we don't want all the files and folders added to the stock game, as we will be adding them as a mod in Mod Organizer.
-5. You need to pick the Core Version or the Plus Version
-   1. Core is the Base Game
-   2. Plus is Cut content from the game.
-6. Once it finishes installing, open the folder that's selected and it should have a bunch of files and folders in it now.
-7. We are going to add all the files in the `Root` to a Mod and then all the files inside `Unofficial_Patch` to another mod.
-8. We are doing this so that we don't have all 1.2GB and 15,000 files load using root builder giving us a nice speed up.
-9.  Create a new empty mod called something like `Unofficial Patch` in Mod Organizer.
-   1. Create a new folder called `Root` inside this mod folder.
-   2. Move all the files in the root (other than the `Unofficial_Patch` folder) into this mod.
-10. Create a new empty mod called `Unofficial Patch`.
-    1. Move all the files inside the `Unofficial_Patch` into this new mod folder.
-11. Done.
-
-
-### Reshade setup for the list
-
-Follow these steps to set up and configure ReShade properly:
-
-1. Prepare the Folder
-    1.  Create a new folder with the name of the ReShade profile you want to make.
-    2. Copy the following files into the new folder:
-       - `LICENSE.md` - I have attached this here [LICENSE.md](/img/Files/LICENSE.md)
-       - `vampire.exe` - This can be pulled from the Steam or GoG folder for the main game.
-2. Step 2: Add the ReShade Configuration
-   1. Download the ReShade preset you want to use (if you haven't already).
-   2. Copy the `.ini` file for that preset into the folder you just created.
-3. Step 3: Run ReShade Setup
-   1. Launch **ReShade Setup** by running:
-      - `ReShade_Setup_6.5.1_Addon.exe`
-   2. Accept the warning screen by clicking **OK**.
-   3. Click **Browse** and select the `vampire.exe` file you copied into the folder.
-   4. Click **Next**.
-   5. When prompted, select **DirectX 9**.
-   6. Click **Next**.
-   7. Click **Browse** again and select the `.ini` file you downloaded earlier.
-   8. Continue clicking **Next** until the installation finishes, then close the setup tool.
-4. Step 4: Clean Up
-   1. Delete the temporary `vampire.exe` file from the folder.
-   2. Open the `ReShade.ini` file in a text editor.
-   3. Add the following settings or edit them to enable hotkeys for toggling effects and the overlay:
-        ```ini
-        [INPUT]
-        ; Toggle all effects on/off
-        KeyEffects=123,1    ; Control + F12
-
-        ; Toggle the ReShade overlay on/off
-        KeyOverlay=122,1    ; Control + F11
-        ```
-   4. Add a folder called `Root` to the mod folder and copy all the files inside it other than the metafile into it.
-
-## ModDB Meta Files
-
-ModDB Meta Files are a bit of a pain to create do to the download method it uses.
-
-When you click download it will open an iFrame for the download location you will have to right click the iFrame and then open it in a new window and use that url to create the Meta File.
-
-The Contents of the file will look something like this URL https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff
-
-```ini
-[General]
-installed=true
-manualURL=https://www.moddb.com/addons/start/174197
-prompt=Wait for the download to start automaticly for NewPCMod.1.rar
-```
-
-## Step 5: Wabbajack Compile Settings
-
-When building the list in **Wabbajack**, you need to adjust the compile settings for the ReShade mods to ensure everything is included properly.
-
-### Required Compile Settings
-
-- **AlwaysEnable**
-- **NoMatchInclude**
-
-### Why These Are Important
-
-- **AlwaysEnable**
-  Ensures the mod is always included in the list, even if it is not checked by default.
-  This way, players can still choose to enable it if they wish.
-
-- **NoMatchInclude**
-  Inlines all files that cannot be found in archives.
-  This is why we added the `LICENSE.md` file — it guarantees that the build will include all necessary files, even if they aren't part of a recognized archive.
-
-### ENB Settings for the list
+For an ENB option, a configuration may include shortcuts such as:
 
 ```ini
 [INPUT]
 KeyUseEffect=123 ; Shift + F12
 KeyBloom=120
 KeyOcclusion=121
-; ...
 ```
 
-## Information on Modding the Game
+Check shortcuts and conflicts in game for each graphics option you include.
 
-### Editing the Main Menu
+## 5. Prepare download metadata
 
-There are 3 parts to the main menu that I have found:
+MO2 can create metadata for downloads made with **Download with Manager**. Some manually downloaded files need a companion `.meta` file in the list's downloads folder so Wabbajack can identify their source.
 
-1. The Logo on top
-2. The Particles that Float around the page and effects
-3. The Background or Skybox
+### ModDB downloads
 
-#### The Logo
+For a ModDB download that opens a download frame, open that frame in a new tab to find the direct download page. A manual metadata file can look like this; replace the URL and prompt with values for the actual archive:
 
-The logo is 3 different files in `unofficial_patch\materials\interface\mainmenu\`:
-
-1. `*.tth`
-2. `*.ttz`
-3. `*.vmt`
-
-TTH stands for Troika Texture Header, and TTZ for Troika Texture Zipped. TTZ is where the actual bitmap is stored, and a `.vmt` file is a Valve Material Type file used by Valve's Source Engine to define the material properties of surfaces in video games, such as color, texture, and reflections. These files are typically text files that contain key-value pairs specifying various material attributes.
-
-The easiest way to edit the file is to use a `.bat` file that the Unofficial Plus Patch includes in `SDK\SDKBinaries\tools\Texture Utils\` and simply drag the TTH file into the `TexConvert.bat`. Then edit the image using your favorite image editor and to convert it back into a `.tth` and `.ttz` just drag it into the `.bat` again.
-
-You should not have to edit the .vmt unless you changed the name of the files but just naming the files the same as the .vmt is good enough.
-
-#### The Particles
-
-The particles are the objects bouncing or floating around the screen in the background, and the effects on the background like color overlays or things like smoke or fire effects.
-
-The only ones I have edited are the floating images and they look to just be `mm_*.tga` files that are 128 x 128 in size and are located in `unofficial_patch\particles`.
-
-> [!TIP]
-> Converting all the TGA files to black will remove the image from displaying. This is handy if you want the background image to display.
-
-If I edit the effects I will post more information, but nothing so far.
-
-#### The Background or Skybox
-
-The Skybox is in 2 places from what I can figure out with the following files:
-
-1. `unofficial_patch\resource\`
-   - `mainmenuparticles.txt`
-     - This looks like where you set certain things about the skybox such as:
-       - The Name of the Skybox
-       - What Music plays
-       - What the camera does and if you can do things like look around or have it rotate
-       - What Particle Effects are loaded and more
-
-2. `unofficial_patch\materials\skybox`
-   - `mm_*.tth`
-   - `mm_*.ttz`
-   - `mm_*.vmt`
-   - `mm_*bk.vmt`
-   - `mm_*dn.vmt`
-   - `mm_*ft.vmt`
-   - `mm_*lf.vmt`
-   - `mm_*rt.vmt`
-   - `mm_*up.vmt`
-
-   The TTH and TTZ are the same format but a larger size, probably 1024x1024 or 2048x2048 in size.
-   
-   **The naming convention for the files works out to be:**
-   - bk = back (rear face of the cube)
-   - ft = front (forward face)
-   - lf = left (left face)
-   - rt = right (right face)
-   - up = top (ceiling face)
-   - dn = down (bottom face)
-
-
-Example of the `mainmenuparticles.txt`:
-
-```json
-MainMenuParticles
-{
-    camera_fov        "45"
-    camera_near       "2"
-    camera_far        "4096"
-    camera_rotation   "0"
-    default_skybox    "mm_skybox"
-
-
-music             "music/vampire_theme.mp3" //(By @joylunamusic)
-
-
-    Particle
-    {
-        emitter       "M_Clouds_Emmiter"
-        origin        "[0,0,-30]"
-        angle         "[0,0,0]"
-    }
-
-
-    Particle
-    {
-        emitter       "M_Clans_Emmiter"
-        origin        "[0,0,-30]"
-        angle         "[0,0,0]"
-    }
-
-    Particle
-    {
-        emitter       "M_Cels_Emmiter"
-        origin        "[0,0,-30]"
-        angle         "[0,0,0]"
-    }
-
-
-}
+```ini
+[General]
+installed=true
+manualURL=https://www.moddb.com/addons/start/174197
+prompt=Wait for the download to start automatically for NewPCMod.1.rar
 ```
 
-Example of the `mm_*.vmt`:
+### Nexus Mods downloads
 
-```json
-"UnlitGeneric"
-{
-    "$basetexture"    "skybox/mm_f"
-    "$basetexturetransform" "center .5 .5 scale 1.8 1.8 rotate 0 translate 0 0"
-    "$detailscale" "1"
-}
-```
+If **Download with Manager** is unavailable, download the archive manually and use its Nexus file page to find the mod ID and file ID. A Nexus URL containing `/mods/80?tab=files&show_file=1581` gives `modID=80` and `fileID=1581` for this **example**. These values can change with the file you download.
 
-#### Nexus Mods meta files.
+Create a text file beside the archive using the archive's exact name followed by `.meta`, for example `PatchInstaller.exe.meta`. Fill in the IDs for your download:
 
-Nexus updated there download settings and now its much harder to get the information you need for creating custom Meta Files.
-
-This is normally not an issue as you can just use the download with Manager option and use the Meta Files that MO2 auto creates for you however there are some files such as the Unofficial Patch that don't have a download with Manager option so you will have to manually create them.
-
-1. Download the file.
-2. Take a look at the file name I am going to use the current at this time version of the Unofficial Patch ``VTMBup115.82 80 11.5 2026-07-07T19-21Z t8GurPi2.exe`` the last characters at the end of the file name is the file slug in this case ``t8GurPi2``
-3. Then we need to make a custom URL using this format ``https://www.nexusmods.com/mods/{slug}`` so in this case ``https://www.nexusmods.com/mods/t8GurPi2``
-4. Then load this URL into new tab in your web browser and its going to take you to a different URL in this case ``https://www.nexusmods.com/vampirebloodlines/mods/80?tab=files&show_file=1581``
-5. Then you need to make a new text document with the same name as the download file with ``.meta`` at the end so ``VTMBup115.82 80 11.5 2026-07-07T19-21Z t8GurPi2.exe``
-6. In this file you will need to fill out the following replacing the modID and fileID with what your url contains.
-``` ini
+```ini
 [General]
 gameName=vampirebloodlines
 modID=80
 fileID=1581
 ```
 
-7. Save the file and move the exe and meta file into your downloads folder for the Wabbajack list.
+The Unofficial Patch is one example of a file that may need this manual step. Check the current download page instead of copying the sample IDs without verification.
+
+## 6. Compile and test the list
+
+In Wabbajack's compile settings, **AlwaysEnable** can include an optional mod that is disabled in the default MO2 profile. **NoMatchInclude** can inline files that Wabbajack cannot match to an archive. Use the latter only for files you are allowed to distribute, and inspect the compiler output to confirm what was included.
+
+Compile the list, install the resulting file into a fresh location, and launch each profile and graphics option you intend to support. Confirm that the selected Steam or GOG build, MO2 paths, Root Builder files, downloads, and metadata all work from that fresh installation.
+
+## Further references
+
+- [Bloodlines modding resources](/ModdingBloodlines/ModdingBloodlines.html) collects forums, model tutorials, and other game-editing references.
+- [Editing the Bloodlines main menu](/ModdingBloodlines/EditingMainMenu.html) covers menu textures, particles, and skybox files.
+- [MO2 wiki](https://github.com/ModOrganizer2/modorganizer/wiki) and [basic games plugins](https://github.com/ModOrganizer2/modorganizer-basic_games) provide MO2 reference material.
+- [MO2 Python plugin](https://github.com/ModOrganizer2/modorganizer-plugin_python) is a starting point for plugin development.
