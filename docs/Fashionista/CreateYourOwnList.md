@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create your own list
-parent: Reference
+parent: Modding Bloodlines
 nav_order: 4
 has_children: false
 has_toc: true
