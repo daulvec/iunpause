@@ -12,6 +12,12 @@ has_toc: false
 
 Technical file information and download details for the Fashionista modlist.
 
+## Fashionista Steam 2.4.8 / GOG 1.4.8 files
+
+- [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80): `VTMBup115.84 80 11.5 2026-09-09T08-50Z pmOMKVgN.exe`
+- [BLOODLINES EXTREME 2.1.7](https://www.moddb.com/mods/bloodlines-hard-difficulty/downloads/bloodlines-extreme): `VBLOODLINES_EXTREME_2.1.7.zip`
+- [Clan-specific interface](https://www.nexusmods.com/vampirebloodlines/mods/284): `Ventrue Interface-284-1-1734421537.rar`
+
 ## ModDB Files
 
 - [https://www.moddb.com/addons/female-malkavian-reskin](https://www.moddb.com/addons/female-malkavian-reskin)
@@ -77,4 +83,4 @@ Technical file information and download details for the Fashionista modlist.
 - [https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/yamr-yet-another-malk-reskin](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/yamr-yet-another-malk-reskin)
 - [https://www.moddb.com/mods/bloodlines-hard-difficulty/downloads/bloodlines-extreme](https://www.moddb.com/mods/bloodlines-hard-difficulty/downloads/bloodlines-extreme)
 - [https://www.moddb.com/mods/play-as-yukie/addons/play-as-yukie](https://www.moddb.com/mods/play-as-yukie/addons/play-as-yukie)
-- [https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-re-skin-for-toreador-pc](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-re-skin-for-toreador-pc) 
+- [https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-re-skin-for-toreador-pc](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-re-skin-for-toreador-pc)

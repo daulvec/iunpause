@@ -14,6 +14,18 @@ has_toc: false
 
 Fashionista is available as separate Steam and GOG Wabbajack lists. Both contain the same mods and profiles. Install the list that matches your copy of Bloodlines; see the [requirements](/Fashionista/Installation/Requirements.html) and [installation guide](/Fashionista/Installation.html).
 
+# Fashionista Steam 2.4.8 / GOG 1.4.8
+
+**Download size change: -525.6MB (Total: 72.9GB)**
+
+**Install size change: 47MB (Total: 90.3GB)**
+
+## Added
+
+- [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80) `VTMBup115.84 80 11.5 2026-09-09T08-50Z pmOMKVgN.exe`
+- [BLOODLINES EXTREME 2.1.7](https://www.moddb.com/mods/bloodlines-hard-difficulty/downloads/bloodlines-extreme) `VBLOODLINES_EXTREME_2.1.7.zip`
+- [Clan-specific interface](https://www.nexusmods.com/vampirebloodlines/mods/284) `Ventrue Interface-284-1-1734421537.rar`
+
 # Fashionista GOG 2.4.6.3
 
 - Fixed a mismatch between the GOG and Steam builds that prevented the GOG list from working correctly.

@@ -12,16 +12,17 @@ has_toc: false
 
 This is the supplied current Fashionista `modlist.txt` export for the main profile, with the development-only section and compiler-ignored `HD GROUNDS WIP` entry omitted. A `+` marks an enabled entry and a `-` marks a disabled entry. Disabled entries may include optional mods and other profiles.
 
+## Version 2.1.8 Steam and Version 1.4.8 GOG
+
 ```diff
 +Fashionista Main Menu
 +Computer Greeting
 -#Late Loaders_separator
 -HD Overhaul - UI UX Separation - Optional
+-Clan-specific interface - Venttrue interface
 -Clan-specific interface - Toreador interface
 -Clan-specific interface - Nosferatu Interface
 -##UI Themes_separator
--Alt-Tabbed Unmute
--##Borderless Fullscreen - READ THE README FOR THIS_separator
 -New VV poster
 -Slutty Posters - Therese's Photo Shoot (Explicit)
 -Slutty Posters
@@ -263,6 +264,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Brujah Vampire rexture - Male
 -Brujah opium outfits overhaul - Male
 +Brujah Connor Mclaud The Highlander - Male
+-Bloodlines Extreme Brujah Male
 -###Brujah - Male_separator
 -Vampire Female Pack by Marius217 Brujah - Female
 -Selene from Underworld for Brujah - Female
@@ -286,6 +288,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -#Quality of Life_separator
 +HQ Music Tracks
 +Bloodlines Voices Remastered
++Unofficial patch Bloodlines Audio fix
 -#Audio_separator
 -BAEO_patch_
 -BAEO
@@ -318,7 +321,6 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -##World Assets_separator
 -#Graphics_separator
 -Updated Loader
--Overhaul Files
 -##Latest Loader_separator
 -silentmasqu
 -##Silentmasqu-mod Overhaul_separator
@@ -376,9 +378,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -##Companion Mod Core Edition_separator
 -Clan Quest UPgraded - Weapon Sounds Mod 1.1
 -Clan Quest UPgraded - Companion Mod Core Edition
--Clan Quest UPgraded - Camarilla Edition Lite
 -###Clan Quest Mod - Optional Mods_separator
--Clan_Quest_UPgraded_-_Patch_4
 -Clan_Quest_UPgraded
 -##Clan Quest Mod_separator
 -HunterC (light-skinned hunter)
@@ -413,6 +413,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Antitribu Overhaul
 -Antitribu Mod Pack by Marius217
 -##Antitribu_separator
+-Patch Extras
 +Unofficial Patch Plus
 -Unofficial Path Basic
 -##Unofficial Patch_separator
@@ -420,6 +421,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 +X20 Scripts
 +X20 Mod
 +Street Sign Texture Pack
++HD GROUNDS WIP
 +Bx Textures
 +Art Texture Pack
 -#Graphics Base_separator
