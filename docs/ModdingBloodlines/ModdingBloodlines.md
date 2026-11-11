@@ -96,7 +96,7 @@ Wallit's *Basics of Bloodlines Modding* tutorial series covers SDK setup and map
 
 ### Editing existing maps
 
-Existing BSP maps can be inspected and modified using tools supplied with the Bloodlines SDK.
+Existing BSP maps can be inspected and modified using tools supplied with the Bloodlines SDK.  
 
 Changes to map geometry generally require editing and recompiling the map.
 
