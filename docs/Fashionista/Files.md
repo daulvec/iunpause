@@ -12,11 +12,33 @@ has_toc: false
 
 Technical file information and download details for the Fashionista modlist.
 
-## Fashionista Steam 2.4.8 / GOG 1.4.8 files
+## Fashionista 2.4.9.0 files
 
-- [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80): `VTMBup115.84 80 11.5 2026-09-09T08-50Z pmOMKVgN.exe`
 - [BLOODLINES EXTREME 2.1.7](https://www.moddb.com/mods/bloodlines-hard-difficulty/downloads/bloodlines-extreme): `VBLOODLINES_EXTREME_2.1.7.zip`
 - [Clan-specific interface](https://www.nexusmods.com/vampirebloodlines/mods/284): `Ventrue Interface-284-1-1734421537.rar`
+- [Andrei Zulu Warform Animalism Beastform](https://www.moddb.com/addons/start/300008): `Andrei_Zulu_Warform_Animalism_Beastform_v1.12_Made_By_MooCHa.rar`
+- [Female Malkavian Outfit Replacer](https://www.nexusmods.com/vampirebloodlines/mods/259): `Female Malkavian Outfit Replacer-259-v1-1-1684767973.zip`
+- [Gangrel skin - Lacuna Coil fan](https://www.nexusmods.com/vampirebloodlines/mods/353): `main-353-1-0-1749277038.7z`
+- [VTMB - Protean and Frenzy Improved](https://www.nexusmods.com/vampirebloodlines/mods/419): `VTMB Protean Improved 1.3.1 419 1.3.1 2026-10-31T17-09Z ADr08nnm.zip`
+- [Vesuvius Dark Brutal Horror mod](https://www.nexusmods.com/vampirebloodlines/mods/338): `Vesuvius Dark Brutal Horror mod-338-0-1-1739424557.zip`
+- [Food Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/53): `Food Texture Pack-53-1-0.zip`
+- `silentmasqu.7z`
+- [Brujah female model](https://www.nexusmods.com/vampirebloodlines/mods/244): `Brujah female model 244 23.10.2027 2026-10-23T18-38Z kxJn5XX5.zip`
+- [Non-fetishist Nosferatu](https://www.nexusmods.com/vampirebloodlines/mods/299): `Normal Nosferatu-299-1-1714429815.rar`
+- [silentmasqu.exe](https://www.moddb.com/downloads/start/17610): `silentmasqu.exe`
+- [Over The Shoulder 3rd Person Camera](https://www.nexusmods.com/vampirebloodlines/mods/430): `Shoulder Cam 430 1.2 2026-10-27T03-36Z MwNCqaa1.zip`
+- [Malkavian with Circular Beard](https://www.nexusmods.com/vampirebloodlines/mods/427): `Le beard 427 1 2026-10-04T06-45Z UIdbpg6S.rar`
+- [MO2 Basic Game Plugin for Bloodlines](https://www.nexusmods.com/vampirebloodlines/mods/438): `MO2 Basic Game Plugin 438 1.1 2026-11-01T00-15Z E4MsBKKt.7z`
+- [CaineCam - Modern third person camera](https://www.nexusmods.com/vampirebloodlines/mods/436): `CaineCam 436 1.1.0 2026-11-01T21-13Z pmOMKVVc.zip`
+- [VTMB Minimap](https://www.nexusmods.com/vampirebloodlines/mods/431): `Minimap 431 2.0 2026-11-01T01-48Z VElabddf.zip`
+- [CainePad - Native Controller Support](https://www.nexusmods.com/vampirebloodlines/mods/432): `CainePad Loader 432 1.2.0 2026-10-31T22-32Z UIdbpggI.zip`
+- [passive Disciplines visual FX begone (1st person)](https://www.nexusmods.com/vampirebloodlines/mods/384): `visual fx begone-384-1-0-1764865036.7z`
+- [Companion Mod Core Edition - Patch 3](https://www.moddb.com/downloads/start/313598): `Companion_Mod_Core_Edition_-_Patch_3.exe`
+
+## Added profiles
+
+- Unofficial Patch Basic: `Unofficial_Patch Basic Override`
+- Silent Masq: `silentmasqu Override`
 
 ## ModDB Files
 

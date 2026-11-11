@@ -44,4 +44,6 @@ There is currently no support and is provided as is.
 
 [Explore Modding Bloodlines](/ModdingBloodlines/ModdingBloodlines.html){: .btn .btn-purple }
 
+[Extracting Mod Installers](/ModdingBloodlines/ExtractingInstallers.html) · [Animated Textures](/ModdingBloodlines/AnimatedTextures.html) · [Editing the Main Menu](/ModdingBloodlines/EditingMainMenu.html) · [Console Commands](/ModdingBloodlines/Console%20Commands.html) · [Create Your Own List](/Fashionista/CreateYourOwnList.html)
+
 A comprehensive guide and resource collection for modding Vampire: The Masquerade - Bloodlines. Whether you're new to modding or looking to create your own content, this section provides tutorials, tools, and community resources.

@@ -1,21 +1,22 @@
+---
+layout: default
+title: Console Commands
+parent: Modding Bloodlines
+nav_order: 4
+---
 
-page for Console Commands and suggested ini/cfg adjustments
+# {{ page.title }}
+{: .text-center }
 
+## Configuration adjustments
 
+- If character movement feels skiddy, add `sv_friction "8"` to a config file.
+- If the game crashes, try setting `mat_compressedtextures "1"` in `config.cfg`.
+- To disable head bobbing, set all `cl_bob` and `v_kick` variables to `0`.
+- To disable rain when frame rates are low, set `particles_enable_precipitation "0"`.
+- If a cutscene freezes, try `camera_kill`, `frenzyplayer`, or Alt+Tab.
 
-# INI adjustments
+## Console commands
 
-If character movement feels skidding add "sv_friction" "8" to cfg.
-
-n crashes try setting "mat_compressedtextures" "1" in config.cfg
-
-To disable head bobbing set all cl_bob and v_kick variables to 0.
-
-On low frame rate kill rain: "particles_enable_precipitation" "0".
-
-On cutscenes freeze use "camera_kill", "frenzyplayer" or ALT-TAB.
-
-# Console Commands
-
-chareditor - open Character Editor
+- `chareditor` - Open Character Editor.
 

@@ -15,6 +15,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 ## Version 2.1.8 Steam and Version 1.4.8 GOG
 
 ```diff
+-#Development Stuff_separator
 +Fashionista Main Menu
 +Computer Greeting
 -#Late Loaders_separator
@@ -31,6 +32,11 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -NSFW Poster Pack Ming Alternative
 -NSFW Poster Pack
 -##Posters_separator
+-Over The Shoulder 3rd Person Camera
++CaineCam - Modern third person camera
+-##Camera_separator
++VTMB Minimap
+-##UI Options_separator
 -Malkavian Whispers UPgrade plus Uninteruppted background music
 +Uninterrupted background music
 -Malkavian Whispers UPgraded
@@ -42,19 +48,21 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -##Reshades_separator
 +VTMB_First_Person_Feeding_v
 -##First Person Feading_separator
+-CainePad - Native Controller Support
 -Controller support - Steam Deck and xinput
 -##Controller_separator
+-Passive Disciplines visual FX begone (1st person)
 -Set Malkavians Font to Standard Font
 -##Accessibility Mods_separator
 +Blade - New Order Confusion Music for Asylum
 +Optional music HUSHED
 -##Audio Options_separator
++VTMB - Protean and Frenzy Improved
 -#Optional Mods_separator
--CE_reborn Override
--Override temp
 -War Games Overwrite
 -Unofficial_Patch Plus Override
--Undisciplined_Caitiff Override
+-Unofficial_Patch Basic Override
+-Undisciplined Caitiff Override
 -silentmasqu Override
 -NSFW Edition Override
 -La by Night Override
@@ -71,6 +79,9 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Bloodlines Antitribu Override
 -Barabbah_Addon Override
 -#Overrides - For the LOVE OF GOD DONT FUCKING TOUCH THIS_separator
+-##Heather_separator
+-Andrei_Zulu_Warform_Animalism_Beastform_v
+-##War Forms_separator
 -Working Lasombra skin for Ventrue - Male
 -Ventrue By Marius217 - Male
 -Ventrue_Male_TrenchCoat_by_Shikamaru - Male
@@ -174,6 +185,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Nosferatu By Marius217 - Male
 -Nosferatu - Male
 +nosf_male - Male
+-Non-fetishist Nosferatu - Male
 -m_nos_replacement - Male
 -Hooded Nosferatu - Male
 -HandsomeNosferatu - Male
@@ -198,6 +210,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -No-Eccentric_Malk - Male
 -NewmalePCMod - Male
 -MR DAMP by Marius217 - Malkavian - Male
+-Malkavian with Circular Beard
 +Malkavian_Male_by_Kenny_Willian - Male
 -MALKAVIAN_2022 - Male
 -Malkavian - Male
@@ -223,6 +236,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Malkavian_ - Female
 -Latex Dictator Malkavian - Female
 -Female_Malkavian_Armor_ - Female
+-Female Malkavian Outfit Replacer - Female
 -Deranged_Darling - Female
 -Custom Outfits for Malk - Female
 -Casual Female Malkavian - Female
@@ -242,6 +256,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Metalhead Gangrel - Male
 -Gangrel model by Marius217 - Male
 -Gangrel_Male_Reskin - Male
+-Gangrel skin - Lacuna Coil fan
 -Gangrel Male by Kenny Willian - Male
 -Bloodlines Extreme Gangrel Male Skin
 -###Gangre - Male_separator
@@ -264,7 +279,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Brujah Vampire rexture - Male
 -Brujah opium outfits overhaul - Male
 +Brujah Connor Mclaud The Highlander - Male
--Bloodlines Extreme Brujah Male
+-Bloodlines Extreme Brujah Male Skins
 -###Brujah - Male_separator
 -Vampire Female Pack by Marius217 Brujah - Female
 -Selene from Underworld for Brujah - Female
@@ -272,9 +287,9 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Female Brujah Replacement Pack - Female
 -Female Brujah by Skeletoff - Female
 -Brujah Replacement - Kit (OC)
++Brujah female model
 -Brujah Amy model
--Bloodlines Extreme Brujah Male Skins
-+Allison Mayer Brujah PC Skin - Female
+-Allison Mayer Brujah PC Skin - Female
 -###Brujah - Female_separator
 -##Brujah_separator
 +silentmasqe - Fashion
@@ -296,6 +311,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 +Beautiful Monster - Female Hands Retexture
 +Overhauled First-Person Hands Models
 -##Hands_separator
+-Jeanette Replaces Heather
 +Those Goth Kids - Dancers Pack
 +Mercurio - HD Retexture
 +Mingxiao retexture by Skeletoff
@@ -318,6 +334,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 +Furniture Texture Pack
 +Carpet Texture Pack
 +Boombox reskin
++Food Texture Pack
 -##World Assets_separator
 -#Graphics_separator
 -Updated Loader
@@ -350,7 +367,6 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -HD Overhaul - World Texture Separation 2 3
 -HD Overhaul - World Texture Separation 1 3
 -HD Overhaul - DXVK and DLLs
--HD Overhaul - Mod
 -VTMB HD Overhaul Complete
 -##HD Overhaul_separator
 -LA by Night - Patch 2.5.6a hotfix
@@ -373,6 +389,7 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 -Companion Mod Core Edition - original PC reskins
 -Companion Mod Core Edition - original NPC reskins
 -###Companion Mod Core Edition - Optional Mods_separator
+-Companion Mod Core Edition - Patch 3
 -Companion_Mod_Core_Edition_-_Patch_2
 -Companion Mod Core Edition
 -##Companion Mod Core Edition_separator
@@ -423,7 +440,10 @@ This is the supplied current Fashionista `modlist.txt` export for the main profi
 +Street Sign Texture Pack
 +HD GROUNDS WIP
 +Bx Textures
++Vesuvius Dark Brutal Horror mod
 +Art Texture Pack
 -#Graphics Base_separator
 -Optional Mods with Have a Pink Seperator_separator
+-Fashionista Version 2.4.9_separator
+
 ```

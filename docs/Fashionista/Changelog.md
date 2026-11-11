@@ -14,6 +14,102 @@ has_toc: false
 
 Fashionista is available as separate Steam and GOG Wabbajack lists. Both contain the same mods and profiles. Install the list that matches your copy of Bloodlines; see the [requirements](/Fashionista/Installation/Requirements.html) and [installation guide](/Fashionista/Installation.html).
 
+# Fashionista 2.4.9.0
+
+**Download size change: 3.5GB (Total: 68.1GB)**
+
+**Install size change: -245.5MB (Total: 81GB)**
+
+## Added
+
+- [Andrei Zulu Warform Animalism Beastform](https://www.moddb.com/addons/start/300008)
+  - `Andrei_Zulu_Warform_Animalism_Beastform_v1.12_Made_By_MooCHa.rar`
+- [Female Malkavian Outfit Replacer](https://www.nexusmods.com/vampirebloodlines/mods/259)
+  - `Female Malkavian Outfit Replacer-259-v1-1-1684767973.zip`
+- [Gangrel skin - Lacuna Coil fan](https://www.nexusmods.com/vampirebloodlines/mods/353)
+  - `main-353-1-0-1749277038.7z`
+- [VTMB - Protean and Frenzy Improved](https://www.nexusmods.com/vampirebloodlines/mods/419)
+  - `VTMB Protean Improved 1.3.1 419 1.3.1 2026-10-31T17-09Z ADr08nnm.zip`
+- [Vesuvius Dark Brutal Horror mod](https://www.nexusmods.com/vampirebloodlines/mods/338)
+  - `Vesuvius Dark Brutal Horror mod-338-0-1-1739424557.zip`
+- [Food Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/53)
+  - `Food Texture Pack-53-1-0.zip`
+- **silentmasqu.7z**
+  - `silentmasqu.7z`
+- [Brujah female model](https://www.nexusmods.com/vampirebloodlines/mods/244)
+  - `Brujah female model 244 23.10.2027 2026-10-23T18-38Z kxJn5XX5.zip`
+- [Non-fetishist Nosferatu](https://www.nexusmods.com/vampirebloodlines/mods/299)
+  - `Normal Nosferatu-299-1-1714429815.rar`
+- [silentmasqu.exe](https://www.moddb.com/downloads/start/17610)
+  - `silentmasqu.exe`
+- [Over The Shoulder 3rd Person Camera](https://www.nexusmods.com/vampirebloodlines/mods/430)
+  - `Shoulder Cam 430 1.2 2026-10-27T03-36Z MwNCqaa1.zip`
+- [Malkavian with Circular Beard](https://www.nexusmods.com/vampirebloodlines/mods/427)
+  - `Le beard 427 1 2026-10-04T06-45Z UIdbpg6S.rar`
+- [MO2 Basic Game Plugin for Bloodlines](https://www.nexusmods.com/vampirebloodlines/mods/438)
+  - `MO2 Basic Game Plugin 438 1.1 2026-11-01T00-15Z E4MsBKKt.7z`
+- [CaineCam - Modern third person camera](https://www.nexusmods.com/vampirebloodlines/mods/436)
+  - `CaineCam 436 1.1.0 2026-11-01T21-13Z pmOMKVVc.zip`
+- [VTMB Minimap](https://www.nexusmods.com/vampirebloodlines/mods/431)
+  - `Minimap 431 2.0 2026-11-01T01-48Z VElabddf.zip`
+- [CainePad - Native Controller Support](https://www.nexusmods.com/vampirebloodlines/mods/432)
+  - `CainePad Loader 432 1.2.0 2026-10-31T22-32Z UIdbpggI.zip`
+- [passive Disciplines visual FX begone (1st person)](https://www.nexusmods.com/vampirebloodlines/mods/384)
+  - `visual fx begone-384-1-0-1764865036.7z`
+- [Companion Mod Core Edition - Patch 3](https://www.moddb.com/downloads/start/313598)
+  - `Companion_Mod_Core_Edition_-_Patch_3.exe`
+
+## Updated
+
+- [Clan-specific interface](https://www.nexusmods.com/vampirebloodlines/mods/284)
+  - `Ventrue Interface-284-1-1734421537.rar`
+
+## Removed
+
+- [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - `VTMBup115.84 80 11.5 2026-09-09T08-50Z pmOMKVgN.exe`
+- [Art Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/75)
+  - `Red Dragon art pack add-on-75-1-0-1594483730.zip`
+- [Devilspawn Fleshfeast - Horror Tape Reskin(s)](https://www.nexusmods.com/vampirebloodlines/mods/107)
+  - `Devilspawn Fleshfeast - Horror Tape Reskin(s)-107-1-0-1563029064.zip`
+- [Bloodlines Voices Remastered](https://www.nexusmods.com/vampirebloodlines/mods/307)
+  - `Bloodlines Voices Remastered Mod Update 2-307-1-02-1717012388.zip`
+- [NPCs Improved](https://www.nexusmods.com/vampirebloodlines/mods/165)
+  - `NPCs Improved-165-1-1778299042.rar`
+  - `Clan Quest Mod Characters-165-26-1733697490.rar`
+- [Boombox reskin](https://www.nexusmods.com/vampirebloodlines/mods/108)
+  - `Boombox reskin - animated clock-108-1-0-1563569052.zip`
+- [asian_purple_malkavian_girl.zip](https://www.moddb.com/addons/start/17689)
+  - `asian_purple_malkavian_girl.zip`
+- [Companion Mod Player Models Fix](https://www.nexusmods.com/vampirebloodlines/mods/383)
+  - `Companion Mod Models-383-alpha-0-1-1764714074.zip`
+- [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
+  - `1dark_malk_girl.zip`
+- [Malkavian Goth Female](https://www.nexusmods.com/vampirebloodlines/mods/378)
+  - `Malkavian Goth Female-378-0-0-1-1762653025.7z`
+- [Nosferatu Replacement - Zivot (OC)](https://www.nexusmods.com/vampirebloodlines/mods/392)
+  - `Nosferatu Replacer - Zivot 1.0 (With intro form)-392-1-0-1766893061.zip`
+- [Brujah Replacement - Kit (OC)](https://www.nexusmods.com/vampirebloodlines/mods/395)
+  - `Brujah Replacer - Kit-395-1-0-1770074317.zip`
+- [CustomPC.rar](https://www.moddb.com/addons/start/180549)
+  - `CustomPC.rar`
+- [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - `Only Characters-234-2-1-1764417380.zip`
+  - `DXVK and DLLs-234-2-1-1764416548.zip`
+- [Malkavian Replacement - Mads (OC)](https://www.nexusmods.com/vampirebloodlines/mods/381)
+  - `Malkavian Replacer - Mads-381-1-0-1763149109.zip`
+- [Toreador Replacement - Veronica (OC)](https://www.nexusmods.com/vampirebloodlines/mods/393)
+  - `Toreador Replacer - Veronica-393-1-0-1768515960.zip`
+- [Ventrue Replacement - Parker (OC)](https://www.nexusmods.com/vampirebloodlines/mods/385)
+  - `Ventrue Replacer - Parker 1.1-385-1-1-1768360243.zip`
+- [Cinder Tweaks](https://www.nexusmods.com/vampirebloodlines/mods/135)
+  - `CQM TFN UoP Antitribu Skip Tutorial With XP-135-1-0-1587133623.rar`
+- [Fashionista](https://www.nexusmods.com/vampirebloodlines/mods/365)
+  - `Set Malkavians Font to Standard Font-365-1-0-1764834313.7z`
+  - `MO2 Plugin-365-1-0-1764835640.7z`
+- [LA Nights Realistic Lighting ENB](https://www.nexusmods.com/vampirebloodlines/mods/342)
+  - `LA Nights ENB - Main File-342-1-1740509252.zip`
+
 # Fashionista Steam 2.4.8 / GOG 1.4.8
 
 **Download size change: -525.6MB (Total: 72.9GB)**
