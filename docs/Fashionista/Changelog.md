@@ -14,6 +14,66 @@ has_toc: false
 
 Fashionista is available as separate Steam and GOG Wabbajack lists. Both contain the same mods and profiles. Install the list that matches your copy of Bloodlines; see the [requirements](/Fashionista/Installation/Requirements.html) and [installation guide](/Fashionista/Installation.html).
 
+# Fashionista 2.4.9.5 Steam and GOG
+
+## Added
+
+- [New HD Texture for TFN 1.2](https://www.moddb.com/addons/start/233148)
+  - `New_HD_Texture_for_TFN_1.2.zip`
+- [CaineLight - Modern graphics effects and shaders](https://www.nexusmods.com/vampirebloodlines/mods/442)
+  - `CaineLight 442 1.1.0 2026-11-11T04-45Z z0HkuGUW.zip`
+- [Wheel Menu - BETA](https://www.nexusmods.com/vampirebloodlines/mods/443)
+  - `Weapon Wheel V0.1 443 0.1 2026-11-09T16-06Z XhitZ4Ov.zip`
+- [VTMB Phone - Music - Fast Travel and More](https://www.nexusmods.com/vampirebloodlines/mods/441)
+  - `VTMB Phone 441 0.5B 2026-11-08T23-58Z NWgpcFGA.zip`
+
+## Updated
+
+- [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - `VTMBup120.11 80 12.0.11 2026-11-11T14-24Z UIdbpgHv.exe`
+- [CaineSub - Modern dialog UI and subtitles](https://www.nexusmods.com/vampirebloodlines/mods/437)
+  - `CaineSub Loader 437 1.2.0 2026-11-10T22-30Z KoaqQbZr.zip`
+- [CaineCam - Modern third person camera](https://www.nexusmods.com/vampirebloodlines/mods/436)
+  - `CaineCam 436 1.4.0 2026-11-10T22-37Z lM8FDjwX.zip`
+- [CainePad - Native Controller Support](https://www.nexusmods.com/vampirebloodlines/mods/432)
+  - `CainePad Loader 432 1.4.0 2026-11-10T22-35Z inRGPwfH.zip`
+- [BLOODLINES EXTREME 2.2.1](https://www.moddb.com/downloads/start/132997)
+  - `BLOODLINES_EXTREME_2.2.1.zip`
+- [Camarilla Edition Reborn](https://www.moddb.com/downloads/start/312734)
+  - `Camarilla_Edition_Reborn.1.exe`
+- [Companion Mod Core Edition](https://www.moddb.com/downloads/start/282830)
+  - `Companion_Mod_Core_Edition_v4.exe`
+
+## Removed
+
+- [Camarilla Edition Reborn](https://www.nexusmods.com/vampirebloodlines/mods/263)
+  - `Camarilla Edition Reborn (Radio Update)-263-2026-C-radioupdate-1779112593.7z`
+  - `Camarilla Edition Reborn HOTFIX 2-263-2025-I-1766741268.zip`
+  - `Camarilla Edition Reborn-263-2026-A-1774343184.exe`
+- [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - `Companion Mod - 11.5-234-2-1-1764416630.zip`
+- [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138)
+  - `Companion Mod Core Edition (Radio Update)-138-v3-2026-B-1779111847.7z`
+- [Companion Mod Core v3 for The Final Nights](https://www.nexusmods.com/vampirebloodlines/mods/162)
+  - `Companion Mod Core for The Final Nights 1.6.1-162-v3-1735306741.7z`
+- [The Final Nights Reborn Patch](https://www.moddb.com/downloads/start/313098)
+  - `The_Final_Nights_Reborn_-_Patch.exe`
+- [Controller support](https://www.nexusmods.com/vampirebloodlines/mods/410)
+  - `VampireGamepad 410 1 2026-08-08T11-26Z KoaqQbV4.zip`
+- [Over The Shoulder 3rd Person Camera](https://www.nexusmods.com/vampirebloodlines/mods/430)
+  - `Shoulder Cam 430 3.4 2026-11-03T07-24Z Lv4ZkHH9.zip`
+
+## Changes to know about
+
+- The Unofficial Patch now has an option to require pressing Enter or clicking to load a new area. This was added because some players could not see the loading-screen tooltips and might fire by accident while the area was loading. It is enabled for now, but may be disabled later depending on how it feels during gameplay.
+- CainePad is available under **Optional Mods > CaineLight Family of Mods > CainePad - Native Controller Support**. It is disabled by default; enable it if you use a controller. Click both sticks to change the hotkeys.
+- CaineLight is a new graphics mod that replaces ReShade and ENB options. Disable it if you prefer your own ReShade or ENB: **Optional Mods > CaineLight Family of Mods > CaineLight - Modern graphics effects and shaders**.
+- CaineSub adds a modern font and UI layout. If you play a Malkavian and want the custom fonts back, edit the setting in its INI or in-game menu and set the Malkavian Font to **Game**. This may be set automatically in a future update. Disable CaineSub if you prefer the original UI or want to use Alternate Clan Themes: **Optional Mods > CaineLight Family of Mods > CaineSub - Modern dialog UI and subtitles**.
+- The third-person camera mod changes character movement and has an optional first-person body view. The body view is disabled by default because it can be buggy; enable it in the INI under **Overwrite > Root > Bin > Loader**.
+- To edit the new CaineLight-family mods in-game, press **Esc** to open the menu if needed, then press **C**. Navigate the menu with the arrow keys and Page Up/Page Down.
+- VTMB Phone adds a phone for playing custom music, taking screenshots, reading email away from a Haven, and fast travel. It can be opened with **Up Arrow** and closed with **Delete**. It is optional for players who want these features; it may not fit everyone's preferred feel for the game.
+- Companion Mod has been re-enabled on the core profile. It appeared to work during initial testing, but has not yet been tested far into the game. Please report any issues.
+
 # Fashionista 2.4.9.0
 
 **Download size change: 3.5GB (Total: 68.1GB)**
