@@ -14,6 +14,68 @@ has_toc: false
 
 Fashionista is available as separate Steam and GOG Wabbajack lists. Both contain the same mods and profiles. Install the list that matches your copy of Bloodlines; see the [requirements](/Fashionista/Installation/Requirements.html) and [installation guide](/Fashionista/Installation.html).
 
+# Fashionista 2.5.0 Steam and GOG
+
+## Added
+
+- [Jeanette and Therese Redone (HQ texture and Tourette included)](https://www.nexusmods.com/vampirebloodlines/mods/14)
+  - `neck seam FIX-14-.zip`
+  - `Jeanette and therese retexture-14-1-0.zip`
+- [Clan_Quest_UPgraded_Patch_9 - Repack.zip](about:blank)
+  - `Clan_Quest_UPgraded_Patch_9 - Repack.zip`
+- [Isaac classy and HD](https://www.nexusmods.com/vampirebloodlines/mods/17)
+  - `Isaac-17-1-0.zip`
+- [Ancient Lore - Beckett Retexture](https://www.nexusmods.com/vampirebloodlines/mods/115)
+  - `Ancient Lore - Beckett Retexture-115-1-1565440102.zip`
+- [Petrea's Remastered Textures - PRT](https://www.nexusmods.com/vampirebloodlines/mods/144)
+  - `Petrea's Remastered Textures-144-0-1-1590850460.rar`
+- [Damsel retexture](https://www.nexusmods.com/vampirebloodlines/mods/19)
+  - `Damsel retext-19-1-0.zip`
+- [Maximillian Strauss retexture](https://www.nexusmods.com/vampirebloodlines/mods/21)
+  - `Maximillian strauss retexture-21-1-0.zip`
+- [New Imalia by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/214)
+  - `Imalia-214-1-0-1654874825.rar`
+- [Pisha (with new hair and HQ skin)](https://www.nexusmods.com/vampirebloodlines/mods/15)
+  - `Pisha retexture-15-1-0.zip`
+- [Pretty as a Flower - A Lily Reskin](https://www.nexusmods.com/vampirebloodlines/mods/130)
+  - `Pretty as a Flower - A Lily Reskin-130-1-0-1583063947.7z`
+- [Tainted Love - A Heather Reskin Pack](https://www.nexusmods.com/vampirebloodlines/mods/73)
+  - `Tainted Love - A Heather Skin Pack-73-1-1548527293.zip`
+  - `Goth Outfit - No Bracers-73-1-1548586811.zip`
+- [Interactive Lockpicking](https://www.nexusmods.com/vampirebloodlines/mods/450)
+  - `Interactive Lockpicking 450 1.0 2026-11-20T02-23Z inRGPw9V.zip`
+- [VV retexture](https://www.nexusmods.com/vampirebloodlines/mods/18)
+  - `VV-18-1-0.zip`
+- [Engine Fixes and Tweaks (BLSE)](https://www.nexusmods.com/vampirebloodlines/mods/446)
+  - `Engine Fixes and Tweaks 446 1.3 2026-11-25T11-11Z cTVK2Up1.zip`
+- [Clan_Quest_UPgraded_Patch_10.exe](https://www.moddb.com/downloads/start/321235)
+  - `Clan_Quest_UPgraded_Patch_10.exe`
+- [Clan_Quest_UPgraded_Patch_9.exe](https://www.moddb.com/downloads/start/319189)
+  - `Clan_Quest_UPgraded_Patch_9.exe`
+- [Conversation Subtitles Only](https://www.nexusmods.com/vampirebloodlines/mods/449)
+  - `ConversationSubtitlesOnly 1.2 449 1.2 2026-11-15T13-25Z QiyWsMq3.zip`
+- [Jeanette Mesh Edit](https://www.nexusmods.com/vampirebloodlines/mods/222)
+  - `Jeanette mesh edit-222-1-1655221165.7z`
+
+## Updated
+
+- [Bloodlines Script Extender (BLSE)](https://www.nexusmods.com/vampirebloodlines/mods/445)
+  - `Bloodlines Script Extender 445 0.7 2026-11-20T01-33Z KoaqQbMC.zip`
+- [CaineHud - Customisable HUD with proper stealth markers](https://www.nexusmods.com/vampirebloodlines/mods/439)
+  - `CaineHud 439 1.3.3 2026-11-26T01-27Z xbAflhjJ.zip`
+- [CaineWorld - Loading speedup with immersive and seamless-ish world transitions](https://www.nexusmods.com/vampirebloodlines/mods/448)
+  - `CaineWorld 448 1.2.1 2026-11-26T01-25Z nfzS3trs.zip`
+- [CaineSub - Modern dialog UI and subtitles](https://www.nexusmods.com/vampirebloodlines/mods/437)
+  - `CaineSub 437 1.4.1 2026-11-25T23-59Z pmOMKVb2.zip`
+- [CainePad - Native Controller Support](https://www.nexusmods.com/vampirebloodlines/mods/432)
+  - `CainePad Loader 432 1.7.0 2026-11-26T01-29Z vV5jxYhO.zip`
+- [VTMB - Miscellaneous Fixes and Adjustments](https://www.nexusmods.com/vampirebloodlines/mods/420)
+  - `Fixes Adjustments 1.4 420 1.4 2026-11-18T08-04Z hOn8j5A3.zip`
+- [CaineCam - Modern third person camera](https://www.nexusmods.com/vampirebloodlines/mods/436)
+  - `CaineCam 436 1.6.0 2026-11-26T01-26Z 9rTHGR6z.zip`
+- [VTMB Cheat Menu](https://www.nexusmods.com/vampirebloodlines/mods/434)
+  - `Cheat Menu 434 0.6 2026-11-18T19-22Z IHKBm2EA.zip`
+
 # Fashionista 2.4.9.5 Steam and GOG
 
 ## Added
